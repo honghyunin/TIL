@@ -13,4 +13,5 @@
  
 ## 분류
 
-[JavaScript 문법](https://https://github.com/honghyunin/TIL/tree/main/JavaScript)
+__[JavaScript 문법](https://https://github.com/honghyunin/TIL/tree/main/JavaScript)__
+
