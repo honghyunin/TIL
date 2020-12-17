@@ -57,7 +57,9 @@ const add = (a, b) => {
 console.log(add(1, 2)); 
 ```
 또한 코드 블럭 내에서 간단하게 한줄로 하나의 리턴을 하는 경우 아래와 같이 줄여 쓴다.
-`` const add = (a, b) => a + b;``
+```js
+ const add = (a, b) => a + b;
+ ```
 
 ## Object
 
