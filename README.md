@@ -11,3 +11,6 @@
  - 축약하여 문장을 사용한다. 추가로 설명이 있다면 정보와 관련된 외부 링크를 포함한다.
  - 내가 이해한 것을 토대로 직접 작성한다.
  
+## 분류
+
+[JavaScript 문법](https://https://github.com/honghyunin/TIL/tree/main/JavaScript)
