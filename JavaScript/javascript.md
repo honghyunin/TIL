@@ -119,8 +119,8 @@ print(mid);
 ## 객체 비구조화 할당
 
 ```js
-function print({ alias, name, actor }) {
-  const text = `${alias}(${name}) 역할을 맡은 배우는 ${actor} 입니다.`;
+function print({ name, main, sub }) {
+  const text = ` ${main} 주 역할군과 ${sub}을(를) 맡은 ${name} 이다.`;
   console.log(text);
 }
 ```
