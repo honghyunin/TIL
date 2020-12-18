@@ -51,59 +51,69 @@ __특정 코드를 하나의 명령으로 실행해주는 기능__
 화살표를 통한 함수를 선언하는 문법
 
 ```JavaScript
-const add = (a, b) => {
+const ex = (a, b) => {
         return a + b;
 };
-console.log(add(1, 2)); 
+console.log(ex(1, 2)); 
 ```
 또한 코드 블럭 내에서 간단하게 한줄로 하나의 리턴을 하는 경우 아래와 같이 줄여 쓴다.
 ```js
- const add = (a, b) => a + b;
+ const ex = (a, b) => a + b;
  ```
 
-## Object
+## 객체
 
 ### 객체란?
 
 객체는 우리가 변수 혹은 상수를 사용하게 될 때 하나의 이름에 여러 종류의 값을 넣을 수 있게 해준다.
 
 ```JavaScript
-const dog = {
-// 키 : 원하는 값
-  name: '멍멍이',
-  age: 2
+const hyunin = {
+
+  name: '현인',
+  age: 17
 };
 
-console.log(dog.name);  // 멍멍이
-console.log(dog.age);   // 2
+console.log(dog.name);
+console.log(dog.age);
 ```
 ### 함수에서 객체를 파라미터로 받기
 
 ```JavaScript
 // JS 에서는 카멜케이스 표기법을 사용한다
-const ironMan = {
-  name: '토니 스타크',
-  actor: '로버트 다우니 주니어',
-  alias: '아이언맨'
+const Top = {
+  name: 'Darius',
+  Main : 'Juggernaut',
+  Sub : 'Sub Tanker'
 };
 
-const captainAmerica = {
-  name: '스티븐 로저스',
-  actor: '크리스 에반스',
-  alias: '캡틴 아메리카'
+const Mid = {
+  name: 'Sylas',
+  Main : 'Mage',
+  Sub : 'Slayer'
 };
 
-function print(hero) {
-  const text = `${hero.alias}(${hero.name}) 역할을 맡은 배우는 ${
-    hero.actor
-  } 입니다.`; // 템플릿 리터럴 방식을 사용해서 문자열로 출력
-  console.log(text);
-}
+const Top = {
+  name: 'Darius',
+  main :  'Juggeranut', sub : 'sub Tanker'};
 
-print(ironMan);
-//아이언맨(토니 스타크) 역할을 맡은 배우는 로버트 다우니 주니어 입니다.
-print(captainAmerica);
-//캡틴 아메리카(스티븐 로저스) 역할을 맡은 배우는 크리스 에반스 입니다.
+const Mid = {
+  name : 'sylas', 
+  main : 'mage', 
+  sub : 'slayer' }; 
+  
+  function print(line){
+    const text = 
+    `주 역할군 ${Top.main}과(와)
+     ${Top.sub}를 맡은 ${Top.name} 이다`; 
+     console.log(text); 
+     }
+
+print(Top);
+// 주 역할군 Juggeraunt 과(와) Sub Tanker를 맡은 Darius 이다.
+
+print(mid);
+// 주 역할군 Mage (과)와 Slayer를 맡은 Sylas 이다.
 ```
 
 ## 객체 비구조화 할당
@@ -120,15 +130,17 @@ function print({ alias, name, actor }) {
 ### 객체 안에 함수 넣기
 
 ```js
-const dog = {
-  name: '멍멍이',
-  sound: '멍멍!',
-  say: function say() {
-    console.log(this.sound);  //여기서 this는 객체 자신을 가리킨다.
+const Hyunin = {
+  name: '현인',
+  sing: 'sing a song!',
+  sing: function sing() {
+    console.log(this.sing);  //여기서 this는 객체 자신을 가리킨다.
   }
 };
 
-dog.say();
+Hyunin.sing();
+
+// 출력 결과 : [Function : sing]
 ```
 익명 함수를 이용한다면 함수에 이름을 작성하지 않아도 된다.
 
