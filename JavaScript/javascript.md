@@ -144,3 +144,36 @@ Hyunin.sing();
 ```
 익명 함수를 이용한다면 함수에 이름을 작성하지 않아도 된다.
 
+
+## (변수 ``` 재선언 가능```)
+
+```js
+var variable = '변수선언';
+console.log(variable); // 변수선언함
+
+var variable = '또 변수선언함';
+console.log(variable); // 또 변수선언함
+```
+변수 선언을 여러 번해도 다른 값이 출력되므로 동일한 변수명을 남용하는 문제가 발생함.
+
+## let (변수 ```재선언 불가능```, 변수 ```재할당 가능```)
+
+```js
+let variable = '변수선언함'; console.log(variable); //변수선언함
+ variable = '변수 재할당함'; console.log(variable); 
+ //변수 재할당함 
+ let variable = '또 변수선언함'; console.log(variable); //또 변수선언함
+```
+## const ( 변수 ```재선언 불가능```, 변수 ```재할당 불가능```)
+
+```js
+const variable = '변수선언함'; console.log(variable); //변수선언함 
+variable = '변수 재할당함'; console.log(variable);
+ //변수 재할당함(에러)
+  const variable = '또 변수선언함';
+   console.log(variable); //또 변수선언함(에러)
+```
+
+# 결론 
+
+재할당이 필요없는 경우, const를 사용해 불필요한 변수의 재사용을 지양하고, 재할당이 필요한 경우 ley을 사용하는 것이 좋음
