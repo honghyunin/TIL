@@ -16,5 +16,5 @@
 쉽게 풀어 관계형 데이터베이스란 우리가 엑셀과 같은 시트에서
 일정한 값과 id가 데이터로써 존재하는 것을 테이블(표)로 묶어 정리해둔 것이다
 
-![screenshot](./img/Database1.png)
+![screensh](./img/Database1.png)
 
