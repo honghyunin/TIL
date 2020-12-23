@@ -18,4 +18,15 @@
 
 ![screensh](/img/Database1.png)
 
-~~<출처: 코딩의 시작, TCP School>~~
+_<출처: 코딩의 시작, TCP School>_
+
+### SQL (Structured Query Language)
+
+- SQL (구조화 질의 언어)은 관계형 데이터베이스 관리 시스템(RDBMS)의 데이터를 관리하기 위해 만들어진 프로그래밍 언어
+
+- 스키마(Schema): 데이터베이스를 구성하는 개체(Entity), 속성(Attribute), 관계(Relationship) 및 데이터 조작 시에 데이터 값들이 갖는 제약조건 등에 관해 전반적으로 정의하는 것
+
+### MySQL
+ - MySql은 sql을 사용하는 관계형 데이터베이스 관리 시스템
+
+ - 여러 기능이 존재하며 다른 프로그램이나
