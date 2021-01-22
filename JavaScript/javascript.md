@@ -44,7 +44,7 @@ __특정 코드를 하나의 명령으로 실행해주는 기능__
 
 ### 문자열 리턴
  - 문자열 조합 시 + 연산자 사용 가능.  
- - __템플릿 리터럴(Template Literal)__ 이란 문법을 사용 가능함.
+ - [__템플릿 리터럴(Template Literal)__](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals) 이란 문법을 사용 가능함.
 
 ### 람다 
 
@@ -119,7 +119,7 @@ print(mid);
 ## 객체 비구조화 할당
 
 ```js
-function print({ name, main, sub }) {
+function print(name, main, sub) {
   const text = ` ${main} 주 역할군과 ${sub}을(를) 맡은 ${name} 이다.`;
   console.log(text);
 }
@@ -176,4 +176,4 @@ variable = '변수 재할당함'; console.log(variable);
 
 # 결론 
 
-재할당이 필요없는 경우, const를 사용해 불필요한 변수의 재사용을 지양하고, 재할당이 필요한 경우 ley을 사용하는 것이 좋음
+재할당이 필요없는 경우, const를 사용해 불필요한 변수의 재사용을 지양하고, 재할당이 필요한 경우 let을 사용하는 것이 좋음
