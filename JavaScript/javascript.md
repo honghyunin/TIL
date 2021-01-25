@@ -44,7 +44,7 @@ __특정 코드를 하나의 명령으로 실행해주는 기능__
 
 ### 문자열 리턴
  - 문자열 조합 시 + 연산자 사용 가능.  
- - __템플릿 리터럴(Template Literal)__ 이란 문법을 사용 가능함.
+ - [__템플릿 리터럴(Template Literal)__](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Template_literals) 이란 문법을 사용 가능함.
 
 ### 람다 
 
@@ -119,7 +119,7 @@ print(mid);
 ## 객체 비구조화 할당
 
 ```js
-function print({ name, main, sub }) {
+function print(name, main, sub) {
   const text = ` ${main} 주 역할군과 ${sub}을(를) 맡은 ${name} 이다.`;
   console.log(text);
 }
@@ -142,7 +142,7 @@ Hyunin.sing();
 
 // 출력 결과 : [Function : sing]
 ```
-익명 함수를 이용한다면 함수에 이름을 작성하지 않아도 된다.
+익명 함수를 이용한다면 함수에 이름을 작성하지 않아도 된다. 
 
 
 ## (변수 ``` 재선언 가능```)
