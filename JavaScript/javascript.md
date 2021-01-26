@@ -65,7 +65,7 @@ console.log(ex(1, 2));
 
 ### 객체란?
 
-객체는 우리가 변수 혹은 상수를 사용하게 될 때 하나의 이름에 여러 종류의 값을 넣을 수 있게 해준다.
+객체는 배열과 같은 기능을 공유하지만, 객체는 이름으로 데이터를 분류한다. 또한 하나의 이름에 여러 종류의 값을 넣을 수 있게 해준다.
 
 ```JavaScript
 const hyunin = {
@@ -93,15 +93,6 @@ const Mid = {
   Sub : 'Slayer'
 };
 
-const Top = {
-  name: 'Darius',
-  main :  'Juggeranut', sub : 'sub Tanker'};
-
-const Mid = {
-  name : 'sylas', 
-  main : 'mage', 
-  sub : 'slayer' }; 
-  
   function print(line){
     const text = 
     `주 역할군 ${Top.main}과(와)
