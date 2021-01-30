@@ -16,3 +16,31 @@
 - __데이터베이스 서버(Database Server)__ 는 Schema를 보관하는 저장소이다.
 
 
+# MySql Command
+
+## 테이블 생성
+
+예시) 
+```m
+> CREATE TABLE TableName(
+  name type(maximum number)  
+  id INT(11) NOT NULL AUTO_INCREMENT, 
+  title VARCHAR(100) NOT NULL,
+  description TEXT NULL,
+  created DATATIME NOT NULL,
+  author VARCHAR(30) NULL,
+  profile VARCHAR(100) NULL,
+  PRIMARY KEY(id);  
+)  
+```
+  
+
+__특징__
+```
+- NULL : 공백 가능
+- NOT NULL : 공백 불가능
+- AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가
+- PRIMARY key : 중복이 되지 않는 고유한 값 
+```
+<br><br>
+
