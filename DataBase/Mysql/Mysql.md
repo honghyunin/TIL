@@ -4,8 +4,8 @@
 - __Query__ 질의 (CRUD를 DB에게 요청)
 - __Language__ 공통의 약속(언어)  
 
-*table* ⬇️ column, 열  == 데이터구조  
-*table* ⬆️ row, record, 행 == 데이터자체
+*table* ↔️ column, 열  == 데이터구조  
+*table* ↕️ row, record, 행 == 데이터자체
 
 
 # MySql의 구조
@@ -44,3 +44,17 @@ __특징__
 ```
 <br><br>
 
+## 입력 
+
+```
+INSERT INTO TableName (columnName, columnName2, ...) VALUES('lorem', 'lorem', '...');
+```
+
+## 출력
+```
+SELECT columnName1, columnName2 ... FROM tableName; 
+
+FROM : 어디에서(tablename,columnname ...)
+WHERE : 조건
+ORDER BY columnName : 정렬해서 출력
+```
