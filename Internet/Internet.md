@@ -31,3 +31,8 @@ __URL : Uniform Resource Locator__
 2. ``Local DNS`` 에는 "www.naver.com 의 IP 주소" 가 있을 수도 없을 수도 있다. 만약 있다면 Local DNS가 바로 PC에 IP 주소를 주고 끝난다. 하지만 본 설명에서는 __Local DNS에 "www.naver.com의 IP 주소"가 없다고 가정__ 한다.
 
 3. Local DNS는 이제 "www.naver.com 의 IP 주소"를 찾아내기 위해 __다른 DNS 서버들과 통신(DNS 메시지)__ 을 __시작__ 한다.
+
+
+### 라우팅 Routing
+
+유저가 패스를 통해 접속하였을 때 패스마다 응답을 해주는 것이다.
