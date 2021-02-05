@@ -13,10 +13,12 @@
  
 ## 분류
 
-__- [JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/javascript.md "자바스크립트 개념 or 문법")__
+__- [JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/javascript.md "자바스크립트")__
 
-__- [Node.js](https://github.com/honghyunin/TIL/blob/main/node.js/nodejs.md "node.js 개념")__
+__- [Node.js](https://github.com/honghyunin/TIL/blob/main/node.js/nodejs.md "node.js")__
 
-__- [Internet](https://github.com/honghyunin/TIL/blob/main/Internet/Internet.md "Internet 개념")__
+__- [Internet](https://github.com/honghyunin/TIL/blob/main/Internet/Internet.md "Internet")__
 
-__- [Database](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md "Database 개념")__
+__- [Database](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md "Database")__
+
+__- [MySql](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md "MySql")
