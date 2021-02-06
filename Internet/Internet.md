@@ -1,16 +1,34 @@
+# 인터넷 
+
+__TCP/IP 통신 프로토콜__ 을 이용하여 서로 정보를 주고 받도록 하는 컴퓨터 네트워크를 말한다.  
+
+<br>
+
 # 인터넷 작동 원리
+
+[인터넷 작동 원리 설명 글](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)  <br>
+[인터넷 작동 원리 영상 ](https://www.youtube.com/watch?v=o5yBl59wRbY&ab_channel=%EA%B3%B5%ED%95%99%EC%BD%94%EB%84%88)
+
+<br>
+
 # 호스팅
 
 서버 컴퓨터나, 서버 컴의 일정 공간을 이용할 수 있도록 임대해주는 서비스를 말한다.  
 
+<br>
+
 ## 웹 호스팅
 
+<br>
 여러 대의 웹사이트를 한 서버에 운영하는 방식이다. 
+<br>
 
 _웹 호스팅 서비스_
  __무료__
   - Sentora
   - VestaCP
+
+<br>
 
 # 도메인
 
@@ -18,11 +36,15 @@ __URL : Uniform Resource Locator__
 
  - 사이트를 기억하기 쉽게 만들어주는 이름이자 특정 컴퓨터를 가리키는 주소이다.
 
+ <br>
+
 ## DNS 
 
 우리가 인터넷을 편리하게 쓰게 해주는 기술로 영문/한글 IP 네트워크에서 찾아갈 수 있는 IP로 변환해준다.
 
 - DNS는 도메인 이름과 IP주소를 서로 변환하는 역할을 한다.
+
+<br>
 
 ### DNS 동작
 
@@ -32,15 +54,21 @@ __URL : Uniform Resource Locator__
 
 3. Local DNS는 이제 "www.naver.com 의 IP 주소"를 찾아내기 위해 __다른 DNS 서버들과 통신(DNS 메시지)__ 을 __시작__ 한다.
 
+<br>
+
 
 ### 라우팅 Routing
 
 유저가 패스를 통해 접속하였을 때 패스마다 응답을 해주는 것이다.
 
+<br>
+
 ### 미들웨어
 
   데이터를 주고 받을 수 있도록 중간에서 매개 역할을 하는 소프트웨어이다.
   또한 미들웨어는 여러 종류가 있으며 다양한 방식으로 사용된다.
+
+<br>
 
   ### URL 리다이렉션
 
