@@ -56,6 +56,13 @@ __URL : Uniform Resource Locator__
 
 <br>
 
+### 브라우저
+
+사용자가 보고자 하는 페이지를 서버에 요청하고 서버로부터 받은 응답(HTML, CSS, JavaScript 등)을 브라우저에 표시하는 것이다.
+
+### 렌더링 엔진
+
+브라우저에서 HTML, CSS를 띄우기 위해 처리해주는 것이다.
 
 ### 라우팅 Routing
 
