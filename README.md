@@ -21,4 +21,4 @@ __- [Internet](https://github.com/honghyunin/TIL/blob/main/Internet/Internet.md 
 
 __- [Database](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md "Database")__
 
-__- [MySql](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md "MySql")
+__- [MySql](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md "MySql")__
