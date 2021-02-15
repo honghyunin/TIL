@@ -10,10 +10,10 @@
 
 # MySql의 구조
 
-- MySql은 엑셀과 같이 스프레드 시트처럼 데이터를 저장한다.
-- __표(table)__ 는 데이터들을 저장하는 곳이다.
-- __스키마(Schema)__ 는 표를 그룹화한 것이다. 
-- __데이터베이스 서버(Database Server)__ 는 Schema를 보관하는 저장소이다.
+- MySql은 엑셀과 같이 스프레드 시트처럼 데이터를 저장합니다.
+- __표(table)__ 는 데이터들을 저장하는 곳입니다.
+- __스키마(Schema)__ 는 표를 그룹화한 것입니다. 
+- __데이터베이스 서버(Database Server)__ 는 Schema를 보관하는 저장소입니다.
 
 
 # MySql Command
@@ -37,10 +37,10 @@
   
 __특징__
 ```
-- NULL : 공백 가능
-- NOT NULL : 공백 불가능
-- AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가
-- PRIMARY key : 중복이 되지 않는 고유한 값 
+- NULL : 공백 가능하다
+- NOT NULL : 공백 불가능하다
+- AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가한다
+- PRIMARY key : 중복이 되지 않는 고유한 값이다
 ```
 <br><br>
 
@@ -56,5 +56,5 @@ SELECT columnName1, columnName2 ... FROM tableName;
 
 FROM : 어디에서(tablename,columnname ...)
 WHERE : 조건
-ORDER BY columnName : 정렬해서 출력
+ORDER BY columnName : 정렬해서 출력한다.
 ```
