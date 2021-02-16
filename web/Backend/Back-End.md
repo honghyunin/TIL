@@ -18,9 +18,12 @@
 
 [ __[세션](https://github.com/honghyunin/TIL/blob/main/web/Backend/session.md "세션")__ ]
 
+[ __[인터넷](https://github.com/honghyunin/TIL/blob/main/web/Backend/Internet/Internet.md)__ ]
+
 
 [ __[URL](https://github.com/honghyunin/TIL/blob/main/web/Backend/URL.md "URL")__ ]
 
 
 [ __[쿠키](https://github.com/honghyunin/TIL/blob/main/web/Backend/Cookie.md "쿠키")__ ]
 
+[ __[HTTP](https://github.com/honghyunin/TIL/blob/main/web/Backend/Internet/HTTP.md)__ ]

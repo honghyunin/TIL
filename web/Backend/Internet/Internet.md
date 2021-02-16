@@ -23,7 +23,7 @@ __TCP/IP 통신 프로토콜__ 을 이용하여 서로 정보를 주고 받도�
 
 <br>
 
-## HTTP 
+## [HTTP](https://github.com/honghyunin/TIL/blob/main/web/Backend/Internet/HTTP.md) 
 
 HTML 문서와 같은 리소스들을 가져올 수 있도록 하는 프로토콜입니다.
 
