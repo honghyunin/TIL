@@ -37,10 +37,10 @@
   
 __특징__
 ```
-- NULL : 공백 가능하다
-- NOT NULL : 공백 불가능하다
-- AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가한다
-- PRIMARY key : 중복이 되지 않는 고유한 값이다
+- NULL : 공백 가능합니다
+- NOT NULL : 공백 불가능합니다
+- AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가합니다
+- PRIMARY key : 중복이 되지 않는 고유한 값입니다
 ```
 <br><br>
 
@@ -56,5 +56,5 @@ SELECT columnName1, columnName2 ... FROM tableName;
 
 FROM : 어디에서(tablename,columnname ...)
 WHERE : 조건
-ORDER BY columnName : 정렬해서 출력한다.
+ORDER BY columnName : 정렬해서 출력합니다.
 ```
