@@ -13,12 +13,10 @@
  
 ## 분류
 
-__- [JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/javascript.md "자바스크립트")__
+### WEB
 
-__- [Node.js](https://github.com/honghyunin/TIL/blob/main/node.js/nodejs.md "node.js")__
+- [Back-end](https://github.com/honghyunin/TIL/blob/main/web/Backend/Back-End.md "Back-End ")
 
-__- [Back-end](https://github.com/honghyunin/TIL/blob/main/web/Backend/Back-End.md "Back-End ")__
+#### 데이터베이스
 
-__- [Database](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md "Database")__
-
-__- [MySql](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md "MySql")__
+- [DataBase](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md)
