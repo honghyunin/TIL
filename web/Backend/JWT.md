@@ -1,10 +1,10 @@
 # JWT (Json Web Token)
 
-## JWT란?
+## 💰 JWT란?
 - JWT는 클라이언트와 서버, 서비스와 서비스 사이 통신 시 권한 인가(Authorization)를 위해 사용되는 토큰입니다. 
 - URL에 대해 안전한 문자열로 구성되어 있기 떄문에 HTTP 어디든 (URL, Header) 위치할 수 있습니다.
 
-## JWT 토큰 구성
+## 🎲 JWT 토큰 구성
 
 ![JWT 구성](/img/jwt구성.png)
 
