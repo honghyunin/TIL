@@ -15,8 +15,12 @@
 
 ### WEB
 
-- [Back-end](https://github.com/honghyunin/TIL/blob/main/web/Backend/Back-End.md "Back-End ")
+- [Back-end](https://github.com/honghyunin/TIL/blob/main/web/Backend/Backend.md " ")
 
 #### 데이터베이스
 
-- [DataBase](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md)
+- [DataBase](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md " ")
+
+
+#### Language
+- [JavaScript](https://github.com/honghyunin/TIL/blob/main/language/JavaScript/javascript.md " ")

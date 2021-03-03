@@ -35,7 +35,7 @@ _<출처: 코딩의 시작, TCP School>_
 
 <br>
 
-### MySQL
+### [MySQL](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md " ")
  - MySql은 sql을 사용하는 관계형 데이터베이스 관리 시스템입니다
 
  - 빠르고 유연하여 사용하기 쉽고, 다중 스레드와 다양한 언어에서 API를 제공합니다
