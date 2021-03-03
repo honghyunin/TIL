@@ -158,7 +158,3 @@ variable = '변수 재할당함'; console.log(variable);
   const variable = '또 변수선언함';
    console.log(variable); //또 변수선언한 것(에러)
 ```
-
-# 결론 
-
-재할당이 필요없는 경우, const를 사용해 불필요한 변수의 재사용을 지양하고, 재할당이 필요한 경우 let을 사용하는 것이 좋습니다.
