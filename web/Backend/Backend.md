@@ -13,7 +13,7 @@
 [ __[렌더링 엔진](https://github.com/honghyunin/TIL/blob/main/web/Backend/Rendering%20engine.md "렌더링 엔진")__ ]
 
 
-[ __[라우트/라우팅](https://github.com/honghyunin/TIL/blob/main/web/Backend/Routing.md "라우트 / 라우팅")__ ]
+[ __[라우트/라우팅](https://github.com/honghyunin/TIL/blob/main/web/Backend/Route%26Routing.md "라우트 / 라우팅")__ ]
 
 
 [ __[세션](https://github.com/honghyunin/TIL/blob/main/web/Backend/session.md "세션")__ ]
