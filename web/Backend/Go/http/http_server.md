@@ -4,7 +4,7 @@
 
 -  ``func ListenAndServe(addr string, handler Handler) error``: HTTP 연결을 받고, 요청에 응답
 - ``func HandleFunc(pattern string, handler func(ResponseWriter, *Request))``: 경로별로 요청을 처리할 핸들러 함수를 등록
--`` func Handle(pattern string, handler Handler)`` : 경로별로 처리할 핸들러를 등록
+- ``func Handle(pattern string, handler Handler)`` : 경로별로 처리할 핸들러를 등록
 - ``func FileServer(root FileSystem) Handler``: 파일 서버 핸들러를 등록
 - ``func StripPrefix(prefix string, h Handler) Handler``: HTTP 요청 경로에서 특정 문자열을 제거한다. 예) /go/server.go -> server.go
 - ``func NewServeMux() *ServeMux``: HTTP 요청 멀티플렉서 인스턴스 생성
@@ -18,7 +18,7 @@ import (
 )
 func main(){
     http.HandleFunc("/", func(res http.ResponseWriter, req *http.Request){
-        res.Write[]bye("Hello, World!")) // 웹 브라우저에 응답합니다
+        res.Write[]byte("Hello, World!")) // 웹 브라우저에 응답합니다
     }) // "/" 경로에 접속했을 때 실행할 함수 설정
     http.ListenAndServe(":3000", nil)
 }
