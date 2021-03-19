@@ -1,29 +1,31 @@
 # 📖 Go Summary Book
 
-- [Varaible 변수](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Variable/Variable.md)
+- __[Varaible 변수](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Variable/Variable.md)__
 
-- [Constants 상수](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Constants/Constants.md)
+- __[Constants 상수](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Constants/Constants.md)__
 
-- [Boolean 불리언](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/bool.md)
+- __[Boolean 불리언](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/bool.md)__
 
-- [string 문자열](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/string/string.md)
+- __[string 문자열](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/string/string.md)__
 
-- [Datatype](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/Datatype.md)
+- __[Datatype](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/Datatype.md)__
 
-- [Type Conversion 타입 변환](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/Type%20Conversion.md)
+- __[Type Conversion 타입 변환](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Datatype/Type%20Conversion.md)__
 
-- [Go 에러처리](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Go_Error/error.md)
+- __[Go 에러처리](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Go_Error/error.md)__
 
-- [defer](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/defer/defer.md)
+- __[defer](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/defer/defer.md)__
 
-- [panic](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/panic/panic.md)
+- __[panic](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/panic/panic.md)__
 
-- [recover](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/recover/recover.md)
+- __[recover](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/recover/recover.md)__
 
-- [Goroutine](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Goroutine/Goroutine.md)
+- __[Goroutine](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Goroutine/Goroutine.md)__
 
-- [Channel 채널](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Channel/Channel.md)
+- __[Channel 채널](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Channel/Channel.md)__
 
-- [HTTP 서버 기초](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Handler/Handle&HandleFunc.md)
+- __[HTTP 서버 기초](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Handler/Handle&HandleFunc.md)__
 
-- [HTTP 핸들러](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Handler/http_server.md)
+- __[HTTP 핸들러](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Handler/http_server.md)__
+
+- __[Slice 슬라이스](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Slice)__
