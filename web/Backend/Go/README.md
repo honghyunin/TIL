@@ -16,7 +16,7 @@
 
 - __[Map 맵](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Map/Map.md)__
 
-- __[Package 패키지](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Package/Package.md)__
+- __[Package 패키지](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Go_Package/Package.md)__
 
 - __[Go 에러처리](https://github.com/honghyunin/TIL/blob/main/web/Backend/Go/Go_Error/error.md)__
 
