@@ -21,7 +21,7 @@
 
 <br>
 
-![screensh](/img/Database1.png)
+![screensh](/images/Database1.png)
 
 _<출처: 코딩의 시작, TCP School>_
 
