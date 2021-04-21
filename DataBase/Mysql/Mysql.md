@@ -7,6 +7,7 @@
 *table* ↔️ column, 열  == 데이터구조  
 *table* ↕️ row, record, 행 == 데이터자체
 
+<br>
 
 # MySql의 구조
 
@@ -15,12 +16,14 @@
 - __스키마(Schema)__ 는 표를 그룹화한 것입니다. 
 - __데이터베이스 서버(Database Server)__ 는 Schema를 보관하는 저장소입니다.
 
+<br>
 
 # MySql Command
 
 ## 테이블 생성
 
-예시) 
+ex)
+
 ```m
 > CREATE TABLE TableName(
   name type(maximum number)  
@@ -34,15 +37,19 @@
 )  
 ```
   
+<br>
   
-__특징__
+## __특징__
+
+<br>
+
 ```
 - NULL : 공백 가능합니다
 - NOT NULL : 공백 불가능합니다
 - AUTO_INCREMENT : 입력되는 데이터의 id값을 1씩 증가합니다
 - PRIMARY key : 중복이 되지 않는 고유한 값입니다
 ```
-<br><br>
+<br>
 
 ## 입력 
 
@@ -50,7 +57,10 @@ __특징__
 INSERT INTO TableName (columnName, columnName2, ...) VALUES('lorem', 'lorem', '...');
 ```
 
+<br>
+
 ## 출력
+
 ```
 SELECT columnName1, columnName2 ... FROM tableName; 
 

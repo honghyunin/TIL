@@ -1,6 +1,5 @@
 # 도메인
 
-
  - *URL(인터넷의 자원 위치)를 나타냅니다. URL은 웹에서 정해진 유일한 자원의 주소일 뿐이ㅣㅂ니다.
 
 __URL : Uniform Resource Locator__

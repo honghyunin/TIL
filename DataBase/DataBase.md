@@ -1,6 +1,7 @@
 # 데이터베이스 (DataBase, DB)
 
 여러 사람이 공유하고 사용할 목적으로 통합 관리되는 정보의 집합입니다.
+
 <br>
 
 ## 데이터베이스 관리 시스템 (DataBase Management System, DBMS)
@@ -35,14 +36,14 @@ _<출처: 코딩의 시작, TCP School>_
 
 <br>
 
-### [MySQL](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md " ")
+## [MySQL](https://github.com/honghyunin/TIL/blob/main/DataBase/Mysql/Mysql.md " ")
  - MySql은 sql을 사용하는 관계형 데이터베이스 관리 시스템입니다
 
  - 빠르고 유연하여 사용하기 쉽고, 다중 스레드와 다양한 언어에서 API를 제공합니다
 
 <br>
 
- ### NoSQL (Not only SQL)
+ ## NoSQL (Not only SQL)
  - NoSQL은 __기존 DBMS__ 의 특징에 또 다른 특성들을 지원하는 DBMS입니다
 
 - NoSQL은 데이터가 일관성이 없고 복잡한 쿼리를 사용할 수 없는 환경에서 NoSQL은 __스키마가 필요 없고 데이터 분산이 용이__ 합니다.

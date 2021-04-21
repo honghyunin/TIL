@@ -2,8 +2,9 @@
 
 ### 네트워크
 
-- __[Network](https://github.com/honghyunin/TIL/blob/main/web/Internet/Network/Network.md)__
+- __[Network](https://github.com/honghyunin/TIL/blob/main/web/Network/Network.md)__
 
+- __[Internet]()__
 ### TCP/IP
 
 - __[TCP/IP](https://github.com/honghyunin/TIL/blob/main/web/Internet/TCP&IP/TCP&IP.md)__
