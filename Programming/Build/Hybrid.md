@@ -14,7 +14,9 @@
 
 <hr>
 
-![Byte_Code](/iamge/ByteCode.png)
+
+![ByteCode](/images/ByteCode.png)
+
 
 <hr>
 

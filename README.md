@@ -5,11 +5,10 @@
 # 분류
 
 ## 🛠️ Programming
-- __[[Programming](https://github.com/honghyunin/TIL/blob/main/Programming/README.md)]__
+
+- __[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)__
 
 - __[[Property](https://github.com/honghyunin/TIL/blob/main/Programming/property/property.md)]__
-
-- __[[마샬링과 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling.md)]__
 
 - __[[Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/README.md)]__
       
@@ -24,10 +23,11 @@
 
 - __[[Network](https://github.com/honghyunin/TIL/blob/main/Network/network.md)]__
 
-- __[[인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/internet/internet_Struct.md)]__
+- __[[인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/Internet/Internet_Struct.md)]__
 
-- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/internet/WebSocket/WebSocket.md)]__
-- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/internet/TCP&IP/TCP&IP.md)]__
+- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket/WebSocket.md)]__
+
+- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP/TCP%26IP.md)]__
 
 ## 🌐 WEB
 
@@ -35,11 +35,11 @@
 
 - __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/web/Cookie_and_Session/Cookie_and_Session.md)]__
 
-- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/web/)]__
+- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/web/HTTP/HTTP.md)]__
 
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/web/Rendering_Engine/Rendering_Engine.md)]__
+- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/web/Rendering_Engine/Rendering%20engine.md)]__
 
-- __[[Rest](https://github.com/honghyunin/TIL/blob/main/web/Rest/Rest.md)]__
+- __[[Rest](https://github.com/honghyunin/TIL/blob/main/web/Rest/REST.md)]__
 
 - __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/web/Route&Routing/Route&Routing.md)]__
 
@@ -50,13 +50,13 @@
 
 - __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/web/Backend/Authentication&Authorization/Authentication&Authorization.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/web/Backend/JWT/JWT.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/web/Backend/Authentication&Authorization/JWT/JWT.md)]__
 
 - __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/web/Backend/concurrency/Concurrency&Parallelism.md)]__
 
 - __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/web/Backend/Digital_Signature/Digital_Signature.md)]__
 
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/web/Backend/middleware/middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/web/Backend/middleware/Middleware.md)]__
 
 ## 📊 데이터베이스
 

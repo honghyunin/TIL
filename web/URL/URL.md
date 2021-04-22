@@ -6,7 +6,7 @@ __URL : Uniform Resource Locator__
 
 - URL을 예를들어 설명하자면
 
-> http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument
+> ``http://www.example.com:80/path/to/myfile.html?key1=value1&key2=value2#SomewhereInTheDocument``
 
 - ``http``는 프로토콜(규약) 입니다. URL의 첫 파트는 브라우저가 어떤 규약을 사용해야 하는 지를 나타냅니다.
 - ``www.example.com``은 도메인 이름입니다. 이는 이 웹서버의 이름이자 주소이기도 합니다.

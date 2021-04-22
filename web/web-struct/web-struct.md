@@ -6,7 +6,7 @@
 
 - 웹에 연결된 컴퓨터는 **클라이언트** 와 **서버** 입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a156197-e4b1-4d3c-b3e7-195a43fe4ae2/Client-server.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a156197-e4b1-4d3c-b3e7-195a43fe4ae2/Client-server.jpg)
+![Client-server](/images/Client-server.jpg)
 
 - 클라이언트는 일반적인 웹 사용자의 인터넷이 연결된 장치들(컴퓨터 : WIFI, Intenret)(폰 :모바일 네트워크) 과 이런 장치들에서 이용 가능한 웹에 접근하는 소프트웨어(Chrome, FIrefox 등) 입니다.
 - 서버는 웹 페이지, 사이트, 또는 앱을 저장하는 컴퓨터입니다. 클라이언트의 장비가 웹 페이지에 접근하길 원할 때, 서버로부터 클라이언트의 장치로 사용자의 웹 브라우저에서 보여지기 위한 웹 페이지의 사본이 다운로드 됩니다.
