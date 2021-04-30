@@ -10,7 +10,6 @@
 
 ```markdown
 CGI는 클라이언트의 요청을 받아 처리해줄 로직을 담고 있는 애플리케이션 프로그램 사이의 인터페이스이다.
-
 ```
 
 # [ Servlet 특징 ]
@@ -35,7 +34,7 @@ CGI는 클라이언트의 요청을 받아 처리해줄 로직을 담고 있는 
 
   5. 응답이 끝나면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킵니다.
 
-[https://mangkyu.tistory.com/14](https://mangkyu.tistory.com/14)
+![servlet](/images/Servlet.png)
 
 # Servlet Container(서블릿 컨테이너)
 
@@ -65,7 +64,7 @@ CGI는 클라이언트의 요청을 받아 처리해줄 로직을 담고 있는 
 
 ## [ Servlet 생명주기 ]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0e9619f-6e19-4cff-a072-5434d48be720/server_Container.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0e9619f-6e19-4cff-a072-5434d48be720/server_Container.png)
+![Container](/images/server_Container.png)
 
 1. 요청이 오면, Servlet 클래스가 로딩되어 요청에 대한 **Servlet 객체가 생성**됩니다.(이때 컨테이너는 해당 서블릿이 **메모리에 있는 지 확인하고, 있을 경우 기존의 서블릿을 제거하고 init() 메소드를 호출하여 재생성한다**)
 2. 서버는 init() **메소드**를 호출해서 **Servlet을 초기화** 합니다.
@@ -87,7 +86,7 @@ JSP는 ``servlet의 단점을 보완`` 하고자 만든 서블릿 기반의 ``�
 
 # [ JSP 동작 구조]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1e71bc-4b0e-421f-8ff0-f2849773da7d/JSP_1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa1e71bc-4b0e-421f-8ff0-f2849773da7d/JSP_1.png)
+![JSP](/images/JSP_1.png)
 
 1. JSP 페이지 요청이 들어온다
 2. JSP파일에 대한 Servlet 객체가 메모리에 존재하는 지 우선 확인한다. Servlet이 있다면 재활용하여 Thread만을 생성하여 처리하고, Servlet이 없다면 3번으로 진행한다.
@@ -95,7 +94,7 @@ JSP는 ``servlet의 단점을 보완`` 하고자 만든 서블릿 기반의 ``�
 4. Servlet으로 변환된 JSP 페이지를 확인하면 html 코드들은 servlet의 코드로 변환된 것을 확인할 수 있다.
 5. 실행결과를 Client에게 돌려준다. (JSP 코드 등은 서버에서 처리한 후 HTML 파일을 응답하므로 소스보기를 해도 JSP 코드는 보이지 않는다.)
 
-# 감사한 분들
+# 참고
 
 - [https://mangkyu.tistory.com/14](https://mangkyu.tistory.com/14)
 - [https://victorydntmd.tistory.com/154](https://victorydntmd.tistory.com/154)
