@@ -24,7 +24,7 @@ CGI는 클라이언트의 요청을 받아 처리해줄 로직을 담고 있는 
 
 # [ Servlet 동작 방식 ]
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc3c34a7-6353-4cd1-b35f-17f7491fca5a/Servlet.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc3c34a7-6353-4cd1-b35f-17f7491fca5a/Servlet.png)
+![Servlet](/images/Servlet.png)
 
 1. 사용자(클라이언트)가 URL을 입력하면 HTTP Request가 Servlet Container로 전송합니다.
 2. 요청을 전송받은 Servlet Container는 HttpServletRequest, HttpServletResponse 객체를 생성합니다.
@@ -34,7 +34,6 @@ CGI는 클라이언트의 요청을 받아 처리해줄 로직을 담고 있는 
 
   5. 응답이 끝나면 HttpServletRequest, HttpServletResponse 두 객체를 소멸시킵니다.
 
-![servlet](/images/Servlet.png)
 
 # Servlet Container(서블릿 컨테이너)
 
