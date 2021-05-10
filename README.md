@@ -8,12 +8,17 @@
 
 - __[[OOP](https://github.com/honghyunin/TIL/blob/main/oop/oop.md)]__
 
+- __[[SOLID](https://github.com/honghyunin/TIL/blob/main/oop/SOLID.md)]__
+
 ## Spring
 
 - __[[Spring](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Spring/Spring.md)]__
 
 - __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Servlet/Servlet.md)]__
 
+- __[[DI](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DI.md)]__
+
+- __[[IOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/IOC.md)]__
 
 ## 🛠️ Programming
 
