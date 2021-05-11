@@ -1,29 +1,26 @@
 # AOP란?
 
-Spring의 핵심 개념 중 하나인 DI가 애플리케이션 모듈들 간의 결합도를 낮춰준다면, AOP는 **애플리케이션 전체에 걸쳐 사용되는 기능을 재사용**하도록 지원하는 것입다.
+Spring의 핵심 개념 중 하나인 DI가 애플리케이션 모듈들 간의 결합도를 낮춰준다면, AOP는 애플리케이션 전체에 걸쳐 사용되는 **기능을 재사용**하도록 지원하는 것입다.
 
-AOP (Aspect-Oriented Programming)란 단어를 번역하면 **관점 지향 프로그래밍**으로 됩니다.
+AOP (Aspect-Oriented Programming)란 단어를 번역하면 **관점 지향 프로그래밍**이 됩니다.
 
 쉽게 얘기해 프로젝트 구조를 바라보는 **관점**을 바꿔보자는 이야기입니다.
 
 우리는 보통 제 3자의 관점에서 바라보자 라는 이야기를 합니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c1db8db-43c3-4b40-8ce1-1cb1b3bcccd3/AOP.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c1db8db-43c3-4b40-8ce1-1cb1b3bcccd3/AOP.jpeg)
-
+![AOP1](img/AOP.jpeg)
 (제 3자의 관점)
 
 즉, **대상을 바라보는 방향을 바꿔라** 란 이야기입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0acd55d4-6528-47cf-89cd-457cd85523c6/AOP2.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0acd55d4-6528-47cf-89cd-457cd85523c6/AOP2.jpeg)
-
+![AOP2](img/AOP2.jpeg)
 (핵심 기능에서 바라본 관점)
 
 각각의 Service는 핵심 기능에서 바라보았을 때 Board, User, XXX 등 **공통된 요소가 없습니다.**
 
 이런 관점에서 각각의 Service는 각자 코드를 새로 구현하고 있다. 하지만, 이 관점을 돌려서 **부가기능** 이란 관점에서 바라보면 달리 보입니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49e06096-b2ed-48a8-b3e3-0dce1fbeaf62/AOP3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49e06096-b2ed-48a8-b3e3-0dce1fbeaf62/AOP3.png)
-
+![AOP3](img/AOP3.png)
 (부가기능에서 바라본 관점)
 
 부가기능의 관점에서 바라보면 각각의 Service는 수행시간 측정을 나타내는 before라는 메소드와 after라는 메소드가 공통되는 것을 알 수 있습니다.
@@ -62,15 +59,14 @@ Aspect : 부가기능 모듈로 **핵심기능에 부가되어 의미를 갖는*
 
 타 프레임워크에서는 예외 발생할 경우, 필드값이 수정될 경우 등도 지원하고 있습니다.
 
-**Proxy** :
-
-타겟을 감써서 타겟의 요청을 대신 받아주는 랩핑(Wrapping) 오브젝트입니다.
+**Proxy** -
+타겟을 감싸서 타겟의 요청을 대신 받아주는 랩핑(Wrapping) 오브젝트입니다.
 
 호출자(클라이언트)에서 타겟을 호출하게 되면 타겟이 아닌 타겟을 감싸고 있는 프록시가 호출되어, 타겟 메소드 실행전에 선처리, 타겟 메소드 실행 후, 후처리를 실행시키도록 구성되어 있습니다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbed50b2-7bc5-464b-8208-e64b286080b0/proxy.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbed50b2-7bc5-464b-8208-e64b286080b0/proxy.png)
+![proxy](img/proxy.png)
 
-(AOP에서 프록시는 호출을 가로챈 후, 어드바이스에 등록된 기능을 수행 후 타겟 메소드를 호추랍니다.)
+(AOP에서 프록시는 호출을 가로챈 후, 어드바이스에 등록된 기능을 수행 후 타겟 메소드를 호출합니다.)
 
 # 스프링 AOP 특징
 
@@ -89,3 +85,4 @@ Aspect : 부가기능 모듈로 **핵심기능에 부가되어 의미를 갖는*
 # 🙆‍♂️ 참고 🙇‍♂️
 
 - [새로비님의 게시글](https://engkimbs.tistory.com/746)
+- [창천향로 창천향로님의 게시글](https://jojoldu.tistory.com/71)
