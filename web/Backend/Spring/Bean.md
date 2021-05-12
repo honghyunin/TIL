@@ -6,7 +6,7 @@
 
 ``Bean Container``는 의존성 주입을 통해 Bean 객체를 사용할 수 있도록 해줍니다.
 
-Spring에서 **``Bean``은 보통 ``Singleton``으로 존재__** 한다.
+Spring에서 **``Bean``은 보통 ``Singleton``으로 존재** 한다.
 
 - Singleton : 어떤 Class가 최초 한 번만 메모리를 할당하고(Static) 그 메모리에 객체를 만들어 사용하는 디자인 패턴
 
