@@ -25,7 +25,7 @@
 
 - __[[MVC](https://github.com/honghyunin/TIL/blog/main/Web/Backend/Spring/MVC.md)]__
 
-- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blog/main/Web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
+- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
 
 - __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)]__
 
