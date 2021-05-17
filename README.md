@@ -23,6 +23,10 @@
 - __[[AOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/AOP.md)]__
 ## 🛠️ Programming
 
+- __[[MVC](https://github.com/honghyunin/TIL/blog/main/Web/Backend/Spring/MVC.md)]__
+
+- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blog/main/Web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
+
 - __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)]__
 
 - __[[Property](https://github.com/honghyunin/TIL/blob/main/Programming/property/property.md)]__
@@ -74,6 +78,12 @@
 - __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/web/Backend/Digital_Signature/Digital_Signature.md)]__
 
 - __[[middleware](https://github.com/honghyunin/TIL/blob/main/web/Backend/middleware/Middleware.md)]__
+
+## MI
+
+- __[[Architecture](https://github.com/honghyunin/TIL/blob/main/MI/Programming/Architecture.md)]__
+
+- __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/MI/Programming/ApplicatioContext.md)]__
 
 ## 📊 데이터베이스
 
