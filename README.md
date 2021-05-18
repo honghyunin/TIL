@@ -23,7 +23,7 @@
 - __[[AOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/AOP.md)]__
 ## 🛠️ Programming
 
-- __[[MVC](https://github.com/honghyunin/TIL/blog/main/Web/Backend/Spring/MVC.md)]__
+- __[[MVC](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/MVC.md)]__
 
 - __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
 
