@@ -6,7 +6,7 @@
 
 <hr><br>
 
-![Build_image](/images/Build.png)
+![Build_image](../images/Build.png)
 
 <hr><br>
 

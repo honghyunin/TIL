@@ -1,11 +1,10 @@
 # DAO
 > Data Access Object : Repository Package
 
-- 실제로 DB에 접근하는 객체입니다.
-    - Persistence Layer(DB에 data를 CRUD하는 계층)입니다.
-- Service와 DB를 연결하는 고리의 역할을 합니다.
+``DAO`` 는 프로젝트의 서비스 모델과 실제 데이터베이스를 연결하는 역할을 하며, JPA에서는 DB에 데이터를 CRUD하는 ``Repository`` 객체들이 DAO라고 볼 수 있다.
+
 - SQL을 사용(개발자가 직접 코딩)하여 DB에 접근한 후 적절한 CRUD API를 제공합니다.
-    - JPA 대부분의 기본적인 CRUD method르 제공하고 있습니다.k
+    - JPA 대부분의 기본적인 CRUD method를 제공하고 있습니다.
 # 1. Entity 란?
 
 - Entity 클래스는 **실제 Database의 테이블과 1:1 로 매핑되는 클래스**로, **DB의 테이블내에 존재하는 컬럼만을 속성(필드)으로** 가져야 한다.
@@ -31,7 +30,7 @@ Entity 클래스 또는 가장 Core한 클래스라고 부른다.
 
     테이블과 링크될 클래스임을 나타낸다.
 
-    **기본값**으로 **카멜케이스 이름을 언더 스커어 네이밍(_)으로** **테이블 이름을 매핑한다.
+    **기본값**으로 **카멜케이스 이름을 언더 스커어 네이밍(_)으로** 테이블 이름을 매핑한다.
 
     - ``@GeneratedValue``
 
@@ -59,7 +58,7 @@ Entity 클래스 또는 가장 Core한 클래스라고 부른다.
 
     - DTO(Data Transfer Object)는 데이터 전송(이동) 객체라는 의미를 가지고 있습니다.
     - DTO는 주로 비동기 처리를 할 때 사용합니다.
-    - **계층간 데이터 교환을 위한 객체(Java Beans)**이다.
+    - **계층간 데이터 교환을 위한 객체(Java Beans)** 이다.
     - **DB의 데이터를 Service나 Controller 등으로 보낼 때 사용하는 객체**를 말합니다.
 
     **DB의 데이터가 Presentation Logic Tier로 넘어올 때는 DTO로 변환되어 오고가는 것**입니다.

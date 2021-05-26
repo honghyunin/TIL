@@ -4,8 +4,7 @@
 
 <hr>
 
-![Interpreted](/images/Interpreted.png)
-
+![Interpreter](../images/Interpreted.png)
 <hr>
 
 - 인터프리터는 목적파일을 생성하지 않고 바로(direct) 실행된다는 것입니다.

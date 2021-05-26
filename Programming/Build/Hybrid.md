@@ -15,7 +15,7 @@
 <hr>
 
 
-![ByteCode](/images/ByteCode.png)
+![ByteCode](../images/ByteCode.png)
 
 
 <hr>

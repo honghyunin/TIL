@@ -11,8 +11,8 @@
 
 |TYPE|PROCESS|
 |----|------------|
-|__[Compile]()__|소스코드 전체를 기계어로 번역함|
-|__[Interpreted]()__|소스코드를 한 줄씩 번역하면서 실행함|
-|__[Hybrid]()__|소스코드 전체를 중간코드(바이트코드)로 번역한 뒤 가상머신(VM)에서 한 줄씩 실행함|
+|__[Compile](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Compile.md)__|소스코드 전체를 기계어로 번역함|
+|__[Interpreted](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Interpreted.md)__|소스코드를 한 줄씩 번역하면서 실행함|
+|__[Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)__|소스코드 전체를 중간코드(바이트코드)로 번역한 뒤 가상머신(VM)에서 한 줄씩 실행함|
 
 <br>

@@ -21,11 +21,22 @@
 - __[[IOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/IOC.md)]__
 
 - __[[AOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/AOP.md)]__
-## 🛠️ Programming
 
-- __[[MVC](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/MVC.md)]__
+- __[[Bean](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Bean.md)]__
 
 - __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
+
+- __[[ORM](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/ORM.md)]__
+
+- __[[MVC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/MVC.md)]__
+
+- __[[ORM](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/ORM.md)]__
+
+- __[[JPA](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/JPA.md)]__
+
+- __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Persistence_Context.md)]__
+
+## 🛠️ Programming
 
 - __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)]__
 

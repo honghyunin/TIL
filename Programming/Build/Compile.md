@@ -6,7 +6,7 @@
 
 <hr>
 
-![Compile](/images/Compile.png)
+![Compile](../images/Compile.png)
 
 <hr>
 
