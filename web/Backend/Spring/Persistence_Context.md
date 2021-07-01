@@ -131,6 +131,6 @@ _영속성 컨텍스트를 초기화하면, 영속상태의 entity 전부 준영
 
 # 🙆‍♂️ 참고 🙇‍♂️ 
 
-- [JPA의 영속성 컨텍스트와 엔티티 생명주기]([https://siyoon210.tistory.com/138](https://siyoon210.tistory.com/138))
-- [[JPA]영속성 컨텍스트(Persistence Context)란]([https://gmlwjd9405.github.io/2019/08/06/persistence-context.html])
+- [JPA의 영속성 컨텍스트와 엔티티 생명주기](https://siyoon210.tistory.com/138)
+- [[JPA]영속성 컨텍스트(Persistence Context)란](https://gmlwjd9405.github.io/2019/08/06/persistence-context.html)
 - [[JPA]영속성(persistence)이란?](https://data-make.tistory.com/609)

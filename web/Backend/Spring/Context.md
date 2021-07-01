@@ -1,6 +1,6 @@
 # Context란?
 
-![Context](/)
+![Context](./img/context구조.png)
 
 - Bean의 확장 버전으로, **Spring Bean을 좀 더 다루기 쉽도록 기능들이 추가된 공간**
 

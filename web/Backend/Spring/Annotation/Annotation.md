@@ -32,4 +32,4 @@ Java와 같은 객체 지향 프로그래밍 언어에서 ``Reflection``을 사�
 
 # 🙆‍♂️ 참고 🙇‍♂️ 
 
-- [Annotation 정리]([https://velog.io/@gillog/Spring-Annotation-정리](https://velog.io/@gillog/Spring-Annotation-%EC%A0%95%EB%A6%AC) )
+- [Annotation 정리](https://velog.io/@gillog/Spring-Annotation-정리)

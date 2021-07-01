@@ -26,8 +26,6 @@
 
 - __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
 
-- __[[ORM](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/ORM.md)]__
-
 - __[[MVC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/MVC.md)]__
 
 - __[[ORM](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/ORM.md)]__
