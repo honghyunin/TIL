@@ -12,9 +12,9 @@
 
 ## Spring
 
-- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Spring/Spring.md)]__
+- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Spring.md)]__
 
-- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Servlet/Servlet.md)]__
+- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Servlet/Servlet.md)]__
 
 - __[[DI](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DI.md)]__
 
