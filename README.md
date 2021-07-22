@@ -12,27 +12,27 @@
 
 ## Spring
 
-- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Web/Backend/Spring/Spring.md)]__
+- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Backend/Spring.md)]__
 
-- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Servlet/Servlet.md)]__
+- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Servlet/Servlet.md)]__
 
-- __[[DI](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DI.md)]__
+- __[[DI](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/DI.md)]__
 
-- __[[IOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/IOC.md)]__
+- __[[IOC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/IOC.md)]__
 
-- __[[AOC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/AOP.md)]__
+- __[[AOC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/AOP.md)]__
 
-- __[[Bean](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Bean.md)]__
+- __[[Bean](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Bean.md)]__
 
-- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/DAO_Entity_DTO_VO.md)]__
+- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/DAO_Entity_DTO_VO.md)]__
 
-- __[[MVC](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/MVC.md)]__
+- __[[MVC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/MVC.md)]__
 
-- __[[ORM](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/ORM.md)]__
+- __[[ORM](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/ORM.md)]__
 
-- __[[JPA](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/JPA.md)]__
+- __[[JPA](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/JPA.md)]__
 
-- __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/web/Backend/Spring/Persistence_Context.md)]__
+- __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Persistence_Context.md)]__
 
 ## 🛠️ Programming
 
@@ -55,49 +55,48 @@
 
 - __[[인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/Internet/Internet_Struct.md)]__
 
-- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket/WebSocket.md)]__
+- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/InternetSocketSocket.md)]__
 
-- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP/TCP%26IP.md)]__
+- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP%26IP.md)]__
 
 ## 🌐 WEB
 
-- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/web/web-struct/web-struct.md)]__
+- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/web-struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/web/Cookie_and_Session/Cookie_and_Session.md)]__
+- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Cookie_and_Session.md)]__
 
-- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/web/HTTP/HTTP.md)]__
+- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/HTTP.md)]__
 
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/web/Rendering_Engine/Rendering%20engine.md)]__
+- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Rendering%20engine.md)]__
 
-- __[[Rest](https://github.com/honghyunin/TIL/blob/main/web/Rest/REST.md)]__
+- __[[Rest](https://github.com/honghyunin/TIL/blob/main/REST.md)]__
 
-- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/web/Route&Routing/Route&Routing.md)]__
+- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Route&Routing.md)]__
 
-- __[[URL](https://github.com/honghyunin/TIL/blob/main/web/URL/URL.md)]__
+- __[[URL](https://github.com/honghyunin/TIL/blob/main/URL.md)]__
 
 ## 🖥️ Backend
-- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/web/Backend/Backend.md " ")]__
+- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend/Backend.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/web/Backend/Authentication&Authorization/Authentication&Authorization.md)]__
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Backend/Authentication&Authorization.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/web/Backend/Authentication&Authorization/JWT/JWT.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Backend/JWT.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/web/Backend/concurrency/Concurrency&Parallelism.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Backend/Concurrency&Parallelism.md)]__
 
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/web/Backend/Digital_Signature/Digital_Signature.md)]__
+- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Backend/Digital_Signature.md)]__
 
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/web/Backend/middleware/Middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Backend/Middleware.md)]__
 
-## MI
+## LI
 
 - __[[Architecture](https://github.com/honghyunin/TIL/blob/main/MI/Programming/Architecture.md)]__
 
 - __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/MI/Programming/ApplicatioContext.md)]__
 
-## 📊 데이터베이스
-
-- __[[DataBase](https://github.com/honghyunin/TIL/blob/main/DataBase/DataBase.md " ")]__
-
+- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/MI/Programming/portkill)]__
 
 ## Language
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/language/JavaScript/javascript.md " ")]__
+
+- __[[Java](https://github.com/honghyunin/TIL/blob/main/language/Java/Java.md)]__
