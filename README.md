@@ -12,7 +12,7 @@
 
 ## Spring
 
-- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Backend/Spring.md)]__
+- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Spring.md)]__
 
 - __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Servlet/Servlet.md)]__
 
@@ -55,25 +55,25 @@
 
 - __[[인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/Internet/Internet_Struct.md)]__
 
-- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/InternetSocketSocket.md)]__
+- __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket.md)]__
 
 - __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP%26IP.md)]__
 
 ## 🌐 WEB
 
-- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/web-struct.md)]__
+- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Backend/web-struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Cookie_and_Session.md)]__
+- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Backend/Cookie_and_Session.md)]__
 
-- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/HTTP.md)]__
+- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/Backend/HTTP.md)]__
 
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Rendering%20engine.md)]__
+- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Backend/Rendering%20engine.md)]__
 
-- __[[Rest](https://github.com/honghyunin/TIL/blob/main/REST.md)]__
+- __[[Rest](https://github.com/honghyunin/TIL/blob/main/Backend/REST.md)]__
 
-- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Route&Routing.md)]__
+- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Backend/Route&Routing.md)]__
 
-- __[[URL](https://github.com/honghyunin/TIL/blob/main/URL.md)]__
+- __[[URL](https://github.com/honghyunin/TIL/blob/main/Backend/URL.md)]__
 
 ## 🖥️ Backend
 - __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend/Backend.md)]__
@@ -90,11 +90,11 @@
 
 ## LI
 
-- __[[Architecture](https://github.com/honghyunin/TIL/blob/main/MI/Programming/Architecture.md)]__
+- __[[Architecture](https://github.com/honghyunin/TIL/blob/main/LI/Programming/Architecture.md)]__
 
-- __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/MI/Programming/ApplicatioContext.md)]__
+- __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/LI/Programming/ApplicatioContext.md)]__
 
-- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/MI/Programming/portkill)]__
+- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/LI/Programming/portkill)]__
 
 ## Language
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/language/JavaScript/javascript.md " ")]__
