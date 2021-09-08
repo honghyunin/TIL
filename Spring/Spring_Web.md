@@ -1,4 +1,5 @@
 # Spring 웹 게층
+
 ## Web Layer 
 - 흔히 사용되는 컨트롤러(@Controller)와 JSP/Freemarker 등의 뷰 템플릿 영역입니다.
 - 이외에도 필터(@Filter), 인터셉터, 컨트롤러 어드바이스(@ControllerAdvice) 등 __외부 요청과 응답__ 에 대한 전반적인 영역을 이야기 합니다.
