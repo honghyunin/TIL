@@ -19,8 +19,7 @@ Spring에서 **``Bean``은 보통 ``Singleton``으로 존재** 한다.
       ``Container``에 공급하는 설정 메타 데이터(XML 파일)에 의해 생성됩니다.
       ``Container``는 이 메타 데이터를 통해 ``Bean``의 생성, ``Bean Life Cycle``, ``Bean Dependency(종속성)``등을 알 수 있습니다.
 
-new 연산자로 생성하는 객체는 ``Bean``이 아니고, ``AplicationContext.getBean()
-``으로 얻어질 수 있는 객체는 ``Bean``입니다.
+new 연산자로 생성하는 객체는 ``Bean``이 아니고, ``AplicationContext.getBean()``으로 얻어질 수 있는 객체는``Bean``입니다.
 
 즉, Spring에서의 Bean은 Applicationtext가 알고있는 객체, 즉 AplicationContext가 만들어서 그 안에 담고있는 객체를 의미합니다.
 

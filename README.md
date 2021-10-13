@@ -1,6 +1,8 @@
-# Today I Learned
+# 🧠 Today I Learned
+ `대신 뇌가 되어준 시간 2020-10-17`
 
-오늘 새롭게 배운 것이나 삽질한 기록을 마크다운으로 정리합니다! 😀 ``do - Dec 17 2020``
+ 새롭게 배운 것이나 삽질한 기록을 마크다운으로 정리합니다! 😊
+
 
 # 분류
 
@@ -12,27 +14,27 @@
 
 ## Spring
 
-- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Spring.md)]__
+- __[[Spring](https://github.com/honghyunin/TIL/blob/main/Spring/Spring.md)]__
 
-- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Servlet/Servlet.md)]__
+- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Spring/Servlet/Servlet.md)]__
 
-- __[[DI](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/DI.md)]__
+- __[[DI](https://github.com/honghyunin/TIL/blob/main/Spring/DI.md)]__
 
-- __[[IOC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/IOC.md)]__
+- __[[IOC](https://github.com/honghyunin/TIL/blob/main/Spring/IOC.md)]__
 
-- __[[AOC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/AOP.md)]__
+- __[[AOC](https://github.com/honghyunin/TIL/blob/main/Spring/AOP.md)]__
 
-- __[[Bean](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Bean.md)]__
+- __[[Bean](https://github.com/honghyunin/TIL/blob/main/Spring/Bean.md)]__
 
-- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/DAO_Entity_DTO_VO.md)]__
+- __[[DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/Spring/DAO_Entity_DTO_VO.md)]__
 
-- __[[MVC](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/MVC.md)]__
+- __[[MVC](https://github.com/honghyunin/TIL/blob/main/Spring/MVC.md)]__
 
-- __[[ORM](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/ORM.md)]__
+- __[[ORM](https://github.com/honghyunin/TIL/blob/main/Spring/ORM.md)]__
 
-- __[[JPA](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/JPA.md)]__
+- __[[JPA](https://github.com/honghyunin/TIL/blob/main/Spring/JPA.md)]__
 
-- __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Backend/Spring/Persistence_Context.md)]__
+- __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Spring/Persistence_Context.md)]__
 
 ## 🛠️ Programming
 
@@ -61,32 +63,32 @@
 
 ## 🌐 WEB
 
-- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Backend/web-struct.md)]__
+- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/web-struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Backend/Cookie_and_Session.md)]__
+- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Cookie_and_Session.md)]__
 
-- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/Backend/HTTP.md)]__
+- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/HTTP.md)]__
 
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Backend/Rendering%20engine.md)]__
+- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Rendering%20engine.md)]__
 
-- __[[Rest](https://github.com/honghyunin/TIL/blob/main/Backend/REST.md)]__
+- __[[Rest](https://github.com/honghyunin/TIL/blob/main/REST.md)]__
 
-- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Backend/Route&Routing.md)]__
+- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Route&Routing.md)]__
 
-- __[[URL](https://github.com/honghyunin/TIL/blob/main/Backend/URL.md)]__
+- __[[URL](https://github.com/honghyunin/TIL/blob/main/URL.md)]__
 
 ## 🖥️ Backend
-- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend/Backend.md)]__
+- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Backend/Authentication&Authorization.md)]__
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Authentication&Authorization.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Backend/JWT.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/JWT.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Backend/Concurrency&Parallelism.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Concurrency&Parallelism.md)]__
 
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Backend/Digital_Signature.md)]__
+- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Digital_Signature.md)]__
 
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Backend/Middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Middleware.md)]__
 
 ## LI
 

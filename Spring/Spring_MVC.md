@@ -4,7 +4,7 @@
 
 |구성 요소|설명|
 |-|-|
-__DispatcherServlcet__ | 애플리케이션으로 들어오는 모든 Request를 받는 부분
+__DispatcherServlet__ | 애플리케이션으로 들어오는 모든 Request를 받는 부분
 __HandlerMapping__| 클라이언트의 요청 URL을 어떤 컨트롤러가 처리할지 결정
 __Controller__ | 클라이언트의 요청을 처리한 뒤, 결과를 DispatcherServlet에게 리턴
 __ModelAndView__  | 컨트롤러가 처리한 결과 정보 및 뷰 선택에 필요한 정보를 담음
