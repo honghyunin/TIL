@@ -63,42 +63,42 @@
 
 ## 🌐 WEB
 
-- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/web-struct.md)]__
+- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/web-struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Cookie_and_Session.md)]__
+- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Web/Cookie_and_Session.md)]__
 
-- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/HTTP.md)]__
+- __[[HTTP](https://github.com/honghyunin/TIL/blob/main/Web/HTTP.md)]__
 
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Rendering%20engine.md)]__
+- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Web/Rendering%20engine.md)]__
 
-- __[[Rest](https://github.com/honghyunin/TIL/blob/main/REST.md)]__
+- __[[Rest](https://github.com/honghyunin/TIL/blob/main/Web/REST.md)]__
 
-- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Route&Routing.md)]__
+- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Web/Route&Routing.md)]__
 
-- __[[URL](https://github.com/honghyunin/TIL/blob/main/URL.md)]__
+- __[[URL](https://github.com/honghyunin/TIL/blob/main/Web/URL.md)]__
 
 ## 🖥️ Backend
-- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend.md)]__
+- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Web/Backend.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Authentication&Authorization.md)]__
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/JWT.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Concurrency&Parallelism.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency%26Parallelism.md)]__
 
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Digital_Signature.md)]__
+- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
 
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Web/Middleware.md)]__
 
 ## LI
 
-- __[[Architecture](https://github.com/honghyunin/TIL/blob/main/LI/Programming/Architecture.md)]__
+- __[[Architecture](https://github.com/honghyunin/TIL/blob/main/Li/Programming/Architecture.md)]__
 
-- __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/LI/Programming/ApplicatioContext.md)]__
+- __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/Li/Programming/ApplicationContext.md)]__
 
-- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/LI/Programming/portkill)]__
+- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/Li/Programming/portkill.md)]__
 
 ## Language
-- __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/language/JavaScript/javascript.md " ")]__
+- __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/language/JavaScript/javascript.md)]__
 
 - __[[Java](https://github.com/honghyunin/TIL/blob/main/language/Java/Java.md)]__
