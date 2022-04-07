@@ -1,1 +1,21 @@
-## 기술면접 준비
+# 기술면접 준비
+
+## Primitive Type & Wrapper Class
+
+### Primitive Type 이란?
+
+Primitive Type은 우리가 일반적으로 Type을 선언 해줄 때
+사용하는 기본적인 타입을 의미한다.
+
+ex) `short, int, long, float, double, byte, char, boolean`
+
+### Wrapper Class
+
+Wrapper class 는 타입이 객체안에 담겨있는 __클래스__ 다.
+
+List를 사용할 때 `List<int>`로 선언하지 않는다. 안될 뿐더러 기본형 타입의 List를 만드는 것은 매우 복잡한 일이기 때문이다.
+
+따라서 이 기본적인 타입을 객체로 감싸서 사용하는 것이 Wrapper Class이다.
+
+사용하기에는 용이하지만, Wrapper Class는 객체이다보니 생성하는 과정에 있어 비용이 들기 때문에 기본형을 대신해서 사용하진 않는다.
+
