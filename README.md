@@ -12,6 +12,10 @@
 
 - __[[SOLID](https://github.com/honghyunin/TIL/blob/main/oop/SOLID.md)]__
 
+- __[[LSP](https://github.com/honghyunin/TIL/blob/main/oop/LSP.md)]__
+
+- __[[OCP](https://github.com/honghyunin/TIL/blob/main/oop/OCP.md)]__
+
 - __[[abstraction](https://github.com/honghyunin/TIL/blob/main/oop/abstraction.md)]__
 
 ## Spring
