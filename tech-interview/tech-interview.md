@@ -49,3 +49,9 @@ List를 사용할 때 `List<int>`로 선언하지 않습니다. 올바르지 않
 Blocking : 호출한 함수에게 제어권을 넘겨주고 작업이 끝날 때까지 대기하면 Blocking.
 
 NonBlocking : 호출한 함수에게 제어권을 넘기지 않고 작업을 동시에 시행하면 NonBlocking.
+
+## Synchronous/Asynchronous
+
+Synchronous : 함수를 호출하고 작업을 마쳤는 지 직접 확인하며 결과를 반환 받는 것입니다.
+
+Asynchronous : 함수를 호출하고 함수의 작업이 끝나면 콜백함수를 통해 결과를 반환해주는 것입니다.
