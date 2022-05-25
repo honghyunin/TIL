@@ -8,15 +8,15 @@
 
 ## OOP (객체 지향 프로그래밍)
 
-- __[[OOP](https://github.com/honghyunin/TIL/blob/main/oop/oop.md)]__
+- __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/OOP.md)]__
 
-- __[[SOLID](https://github.com/honghyunin/TIL/blob/main/oop/SOLID.md)]__
+- __[[SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)]__
 
-- __[[LSP](https://github.com/honghyunin/TIL/blob/main/oop/LSP.md)]__
+- __[[LSP](https://github.com/honghyunin/TIL/blob/main/OOP/LSP.md)]__
 
-- __[[OCP](https://github.com/honghyunin/TIL/blob/main/oop/OCP.md)]__
+- __[[OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)]__
 
-- __[[abstraction](https://github.com/honghyunin/TIL/blob/main/oop/abstraction.md)]__
+- __[[abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)]__
 
 ## Spring
 
@@ -46,7 +46,7 @@
 
 - __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)]__
 
-- __[[Property](https://github.com/honghyunin/TIL/blob/main/Programming/property/property.md)]__
+- __[[Property](https://github.com/honghyunin/TIL/blob/main/Programming/Property/Property.md)]__
 
 - __[[Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/README.md)]__
       
@@ -65,13 +65,13 @@
 
 - __[[WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket.md)]__
 
-- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP%26IP.md)]__
+- __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP_IP.md)]__
 
 ## 🌐 WEB
 
-- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/web-struct.md)]__
+- __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/Web_Struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Web/Cookie_and_Session.md)]__
+- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Web/Cookie&Session.md)]__
 
 - __[[HTTP](https://github.com/honghyunin/TIL/blob/main/Web/HTTP.md)]__
 
@@ -86,11 +86,11 @@
 ## 🖥️ Backend
 - __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Web/Backend.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication&Authorization.md)]__
 
 - __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency%26Parallelism.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
 
 - __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
 
@@ -102,12 +102,12 @@
 
 - __[[ApplicatioContext](https://github.com/honghyunin/TIL/blob/main/Li/Programming/ApplicationContext.md)]__
 
-- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/Li/Programming/portkill.md)]__
+- __[[포트 죽이기](https://github.com/honghyunin/TIL/blob/main/Li/Programming/Portkill.md)]__
 
-- __[[templateEngine](https://github.com/honghyunin/TIL/blob/main/Li/Programming/templateengine.md)]__
+- __[[templateEngine](https://github.com/honghyunin/TIL/blob/main/Li/Programming/Templateengine.md)]__
 
 ## Language
-- __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/javascript.md)]__
+- __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/Javascript.md)]__
 
 - __[[Java](https://github.com/honghyunin/TIL/blob/main/Java/Java.md)]__
 
