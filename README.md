@@ -42,21 +42,22 @@
 
 - __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Spring/Persistence_Context.md)]__
 
-## 🛠️ Programming
+## 🛠️ Computer Science
 
-- __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/Programming/Marshalling/Marshalling.md)]__
+- __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)]__
 
-- __[[Property](https://github.com/honghyunin/TIL/blob/main/Programming/Property/Property.md)]__
+- __[[Property](https://github.com/honghyunin/TIL/blob/main/cs/Property/Property.md)]__
 
-- __[[Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/README.md)]__
+- __[[Build](https://github.com/honghyunin/TIL/blob/main/cs/Build/README.md)]__
       
-- __[[Build_Process](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build_Process.md)]__
+- __[[Build_Process](https://github.com/honghyunin/TIL/blob/main/cs/Build/Build_Process.md)]__
 
-- __[[Compile](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Compile.md)]__
+- __[[Compile](https://github.com/honghyunin/TIL/blob/main/cs/Build/Compile.md)]__
 
-- __[[Interpreted](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Interpreted.md)]__
+- __[[Interpreted](https://github.com/honghyunin/TIL/blob/main/cs/Build/Interpreted.md)]__
 
-- __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)]__
+- __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/cs/Build/Hybrid.md)]__
+
 ## 🌎 Network
 
 - __[[Network](https://github.com/honghyunin/TIL/blob/main/Network/network.md)]__
