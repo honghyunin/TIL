@@ -1,9 +1,7 @@
 # Spring Security란?
 
-<hr>
 
-Spring Security는 Spring 기반의 **애플리케이션의 보안(인증과 권한)을 담당하는 스프링 하위 프레임워크**이다.
-
+> Spring Security는 Spring 기반의 **애플리케이션의 보안(인증과 권한)을 담당하는 스프링 하위 프레임워크**이다.
 Spring Security는 **'인증'과 '권한'에 대한 부분을 Filter 흐름에 따라 처리**하고 있다.  Filter는 spring MVC와 분리되어 관리 및 동작한다. 
 
 ## Spring Securit의 구조
@@ -37,9 +35,9 @@ Spring Security는 **'인증'과 '권한'에 대한 부분을 Filter 흐름에 �
 - GrantedAuthority : 사용자에게 주어진 애플리케이션 사용 권한 객체
 
 PasswordEncoder : DB에 사용자의 정보 저장 시 비밀번호를 암호화 해주거나, 인증 시 입력 된 비밀번호와 저장 된 비밀번호를 mathcing 해주는 객체.
-Spring Security는 기본적으로 인증 절차를 거친 후에 인가 절차를 진행하게 되며, 인가 과정에서 해당 리소스에 대한 접근 권한이 있는 지를 확인하게 된다.
+Spring Security는 기본적으로 인증 절차를 거친 후에 인가 절차를 진행하게 되며, 인가 과정에서 해당 리소스에 대한 접근 권한이 있는 지를 확인하게 됩니다.
 
-Spring Security에서는 이러한 인증과 인가를 위해 `Principal`을 아이디로, `Credential`을 비밀번호로 사용하는 `Credential 기반의 인증 방식`을 사용한다.
+Spring Security에서는 이러한 인증과 인가를 위해 `Principal`을 아이디로, `Credential`을 비밀번호로 사용하는 `Credential 기반의 인증 방식`을 사용합니다.
 
 # Securtiy의 Filters
 

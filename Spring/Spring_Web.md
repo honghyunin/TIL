@@ -10,7 +10,7 @@
 - @Transactionl이 사용되어야 하는 영역이기도 합니다.
 ## Repository Layer
 - __Database__ 와 같이 데이터 저장소에 접근하는 영역입니다.
-- Dao 영역과 유사함
+- DAO 영역과 유사함
 
 ## Dtos
 - Dto(Data Transfer Object)는 __계층 간에 데이터 교환을 위한 객체__ 를 이야기하며 Dtos는 이들의 영역을 얘기합니다.
