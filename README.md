@@ -1,7 +1,16 @@
-# 🧠 Today I Learned
+# 🧠 I Learned Concepts
  `대신 뇌가 되어준 시간 2020-10-17`
 
- 새롭게 배운 것이나 삽질한 기록을 마크다운으로 정리합니다! 😊
+내가 이해한 개념들을 잊지 않기 위해 기록하는 공간입니다.
+
+ ## Rules
+
+| 다른 사람이 보고 이해하지 못하는 글은, 내가 보아도 이해하지 못합니다. 언제나 이해할 수 있는 글을 작성하도록 합니다.
+
+- 글의 종결어미는 대부분 ~ㅂ니다.로 끝내도록 합니다. 꼭 ~ㅂ니다가 아닌, 존칭을 표현할 수 있으면 상관없습니다.
+- 블로그 글이 아니기에, 최소한으로 필요한 정보만을 담아야 하므로 불필요한 말이나 서론을 최대한 줄입니다.
+- 내가 쓴 글이더라도 그 시간이 오래되면 잊을 수 있기에, 이 곳에 적힌 글들 최대한 숙지하도록 합니다.
+
 
 
 # 분류
@@ -22,7 +31,7 @@
 
 - __[[Spring](https://github.com/honghyunin/TIL/blob/main/Spring/Spring.md)]__
 
-- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Spring/Servlet/Servlet.md)]__
+- __[[Servlet](https://github.com/honghyunin/TIL/blob/main/Spring/Servlet.md)]__
 
 - __[[DI](https://github.com/honghyunin/TIL/blob/main/Spring/DI.md)]__
 
@@ -58,7 +67,7 @@
 
 - __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/cs/Build/Hybrid.md)]__
 
-- __[[Cache](https://github.com/honghyunin/TIL/blob/main/cs/Build/cache.md)]__
+- __[[Cache](https://github.com/honghyunin/TIL/blob/main/cs/Cache/cache.md)]__
 
 ## 🌎 Network
 
@@ -87,6 +96,7 @@
 - __[[URL](https://github.com/honghyunin/TIL/blob/main/Web/URL.md)]__
 
 ## 🖥️ Backend
+
 - __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Web/Backend.md)]__
 
 - __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication&Authorization.md)]__
@@ -110,6 +120,7 @@
 - __[[templateEngine](https://github.com/honghyunin/TIL/blob/main/Li/Programming/Templateengine.md)]__
 
 ## Language
+
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/Javascript.md)]__
 
 - __[[Java](https://github.com/honghyunin/TIL/blob/main/Java/Java.md)]__
