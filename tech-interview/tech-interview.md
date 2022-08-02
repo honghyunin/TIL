@@ -1,22 +1,11 @@
 # 기술면접 준비
 
-## Primitive Type & Wrapper Class
-
 ### Primitive Type 이란?
 
-Primitive Type은 일반적으로 Type을 선언 해줄 때
-사용하는 기본적인 타입을 의미합니다
-예를 들어  `short, int, long, float, double, byte, char, boolean`와 같은 타입들이 있습니다.
-
+Primitive Type은 일반적으로 사용하는 기본형 타입입니다.
 ### Wrapper Class
 
-Wrapper class 는 타입이 객체안에 담겨있는 __클래스__ 입니다.
-
-List를 사용할 때 `List<int>`로 선언하지 않습니다. 올바르지 않은 선언일 뿐더러 자바에서 기본형 타입의 List를 만드는 것은 매우 복잡한 일이기 때문입니다.
-
-따라서 이 기본적인 타입을 객체로 감싸서 사용하는 것이 Wrapper Class입니다.
-
-사용하기에는 용이하지만, Wrapper Class는 객체이다보니 생성하는 과정에 있어 비용이 들기 때문에 기본형을 대신해서 사용하진 않습니다.
+Wrapper class 는 Primitive Type이 담겨있는 __클래스__ 입니다.
 
 <hr>
 
@@ -86,8 +75,7 @@ Spring은 Java 기반 오픈소스 애플리케이션 프레임워크입니다.
 
 ## Garbage Collection 에 대해 설명해주세요
 
-- 자바 Bean 객체는 IoC가 생명주기를 관리하여 객체들의 소멸까지 관리해주지만, 
-개발자가 직접 생성하여 메모리를 사용하고 있는 객체들이 더 이상 참조되지 않을 때 Garbage Collection이 소멸하는 기능을 해줍니다. 
+- 메모리를 사용하고 있는 객체들이 더 이상 참조되지 않을 때 Garbage Collection이 소멸하는 기능을 해줍니다. 
 
 ## ORM
 
@@ -100,3 +88,7 @@ Spring은 Java 기반 오픈소스 애플리케이션 프레임워크입니다.
 ## Persistence Context
 
 - 자바 객체가 DB에 매핑되기 전에 거치는 컨텍스트입니다.
+
+## WAS와 WS의 차이는 무엇인가요?
+
+- WS가 정적인 콘텐츠를 더 잘 처리하고, WAS가 동적인 컨텐츠를 더 잘 처리하는 차이점이 있습니다.

@@ -3,7 +3,7 @@
 - Java를 컴파일하고 개발할 수 있도록 하는 개발 환경 세트
     - 개발자만을 위한 컴파일러, 디버깅 툴 제공
     - JRE(+JVM)을 포함한 종합 툴
-- Java Development Kit의 약자, 개발자를 위한 Java
+- Java Development Kit의 약자, 개발자를 위한 자바 개발 도구
 - JDK 안에는 JRE, JVM도 포함되어 있습다.
 
 ![d](/images/JDK_JRE_JVM.png)
