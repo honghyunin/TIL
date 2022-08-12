@@ -97,17 +97,24 @@
 
 ## 🖥️ Backend
 
-- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Web/Backend.md)]__
+- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend/Backend.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication&Authorization.md)]__
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/Authentication&Authorization.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/JWT/JWT.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Backend/Concurrency&Parallelism.md)]__
 
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
+- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/JWT/Digital_Signature.md)]__
 
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Web/Middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Backend/Middleware.md)]__
+
+## 🗳️AWS
+- __[[CodeDeploy](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/CodeDeploy.md)]__
+
+- __[[Load Balancing](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/LoadBalancing.md)]__
+
+- __[[Scaleup Scaleout](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/ScaleUp&ScaleOut.md)]__
 
 ## LI
 
@@ -134,4 +141,5 @@
 - __[[Index](https://github.com/honghyunin/TIL/blob/main/Database/Index.md)]__
 
 - __[[SQL](https://github.com/honghyunin/TIL/blob/main/Database/SQL.md)]__
+
 - __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
