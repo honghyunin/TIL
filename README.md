@@ -5,13 +5,10 @@
 
  ## Rules
 
-> 다른 사람이 보고 이해하지 못하는 글은, 내가 보아도 이해하지 못합니다. 언제나 이해할 수 있는 글을 작성하도록 합니다.
-
-- 글의 종결어미는 대부분 존칭을 표현할 수 있는 어투를 사용합니다.
-- 블로그 글이 아니기에, 최소한으로 필요한 정보만을 담아야 하므로 불필요한 말이나 서론을 최대한 줄입니다.
-- 내가 쓴 글이더라도 그 시간이 오래되면 잊을 수 있기에, 이 곳에 적힌 글들 최대한 숙지하도록 합니다.
-
-
+- 다른 사람이 보고 이해하지 못하는 글은, 내가 보아도 이해하지 못합니다. 언제나 이해할 수 있는 글을 작성하도록 합니다.
+- 글의 종결어미는 존칭을 표현할 수 있는 어투를 사용하도록 지향합니다.
+- 최소한의 필요한 정보만을 담기 위해 불필요한 말과 서론을 줄입니다.
+- 내가 쓴 글이더라도 시간이 오래되면 잊을 수 있기에, 이 곳에 적힌 글들 최대한 숙지하도록 합니다.
 
 # 분류
 
@@ -141,5 +138,9 @@
 - __[[Index](https://github.com/honghyunin/TIL/blob/main/Database/Index.md)]__
 
 - __[[SQL](https://github.com/honghyunin/TIL/blob/main/Database/SQL.md)]__
+<<<<<<< HEAD
 
 - __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
+=======
+- __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
+>>>>>>> d56f28d25c2595d2c6ca8e6ff4cd9327635a2d87
