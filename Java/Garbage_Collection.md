@@ -55,3 +55,17 @@ user = new User("게도");
 3. 1~2의 과정이 반복되다 Survivor 영역 또한 가득차게 되면 Survivor 영역의 살아남은 객체를 다른 Survivor 영역으로 이동시킨다.(1개의 Survivor 영역은 반드시 비어있는 상태입니다.)
 4. 위 과정을 반복하다 Survivor 영역 또한 가득차게 되면 객체들을 Old 영역으로 이동(Promotion)
 
+## Reachability
+> Java GC는 객체가 사용되고 있는 지를 분류하기 위해 'Reachability'란 개념을 사용한다.
+
+Reachability는 객체가 유효한 참조를 하고 있을 경우 'reachable', 아닐 경우 'unreachable' 로 구별하고 unreachable 객체를 가비지로 간주해 GC를 수행합니다.
+
+유효한 참조 또한 파악하기 위해 'root set' 이라는 항상 유효한 최초의 참조라는 것을 reachable의 기준으로 둔다.
+
+
+*출처 : Naver D2*
+![Reachability](/images/reachablilty.png)
+
+위에서 보듯이, root set으로부터 시작한 참조 사슬에 속한 객체들은 reachable 객체이고, 이와 무관한 객체들이 unreachable 객체로 GC 대상입니다. 오른쪽 아래 객체처럼 reacahble 객체를 참조하고 있을 지라도 본인이 참조받지 않는다면 unreachable 객체입니다.
+
+물론 위의 개념은 가장 GC가 처리할 객체를 분류하는 가장 기본적인 내용이며 더 자세한 내용은 strongly reachable, softly reachable, weakly reachable, phantomly reachable를 검색해보시면 알 수 있으실 것입니다.
