@@ -138,9 +138,5 @@
 - __[[Index](https://github.com/honghyunin/TIL/blob/main/Database/Index.md)]__
 
 - __[[SQL](https://github.com/honghyunin/TIL/blob/main/Database/SQL.md)]__
-<<<<<<< HEAD
+- __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
 
-- __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
-=======
-- __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
->>>>>>> d56f28d25c2595d2c6ca8e6ff4cd9327635a2d87
