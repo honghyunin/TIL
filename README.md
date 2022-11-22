@@ -1,5 +1,5 @@
 # 🧠 I Learned Concepts
- `대신 뇌가 되어준 시간 2020-10-17`
+ `대신 뇌가 되어준 시간 2020-10-17 ~ ing`
 
 내가 이해한 개념들을 잊지 않기 위해 기록하는 공간입니다.
 
@@ -14,7 +14,7 @@
 
 ## OOP (객체 지향 프로그래밍)
 
-- __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/OOP.md)]__
+- __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/oop.md)]__
 
 - __[[SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)]__
 
@@ -49,6 +49,7 @@
 - __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Spring/Persistence_Context.md)]__
 
 - __[[Filter & Interceptor](https://github.com/honghyunin/TIL/blob/main/Spring/Filter&Interceptor.md)]__
+
 ## 🛠️ Computer Science
 
 - __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)]__
@@ -93,21 +94,18 @@
 
 - __[[URL](https://github.com/honghyunin/TIL/blob/main/Web/URL.md)]__
 
-## 🖥️ Backend
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
 
-- __[[Back-end](https://github.com/honghyunin/TIL/blob/main/Backend/Backend.md)]__
+- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/Authentication&Authorization.md)]__
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
 
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/JWT/JWT.md)]__
+- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
 
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Backend/Concurrency&Parallelism.md)]__
-
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Backend/Auth/JWT/Digital_Signature.md)]__
-
-- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Backend/Middleware.md)]__
+- __[[middleware](https://github.com/honghyunin/TIL/blob/main/Web/Middleware.md)]__
 
 ## 🗳️AWS
+
 - __[[CodeDeploy](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/CodeDeploy.md)]__
 
 - __[[Load Balancing](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/LoadBalancing.md)]__
@@ -126,11 +124,19 @@
 
 ## Language
 
+### JavaScript
+
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/Javascript.md)]__
+
+### Java
 
 - __[[Java](https://github.com/honghyunin/TIL/blob/main/Java/Java.md)]__
 
 - __[[추상화 vs 인터페이스](https://github.com/honghyunin/TIL/blob/main/Java/Interface&Abstract.md)]__
+
+### Kotlin
+
+- __[[Backing Field](https://github.com/honghyunin/TIL/blob/main/kotlin/syntax/Backing_Field.md)]__
 
 ## Database
 
@@ -139,5 +145,6 @@
 - __[[Index](https://github.com/honghyunin/TIL/blob/main/Database/Index.md)]__
 
 - __[[SQL](https://github.com/honghyunin/TIL/blob/main/Database/SQL.md)]__
+
 - __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
 
