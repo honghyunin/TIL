@@ -12,7 +12,12 @@
 
 # 분류
 
-## OOP (객체 지향 프로그래밍)
+## Programming
+
+- __[[동기/비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
+
+
+### OOP (객체 지향 프로그래밍)
 
 - __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/oop.md)]__
 
@@ -22,7 +27,7 @@
 
 - __[[OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)]__
 
-- __[[abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)]__
+- __[[Abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)]__
 
 ## Spring
 
@@ -48,25 +53,29 @@
 
 - __[[Persistence Context](https://github.com/honghyunin/TIL/blob/main/Spring/Persistence_Context.md)]__
 
-- __[[Filter & Interceptor](https://github.com/honghyunin/TIL/blob/main/Spring/Filter&Interceptor.md)]__
+- __[[Filter/Interceptor](https://github.com/honghyunin/TIL/blob/main/Spring/Filter&Interceptor.md)]__
+
+- __[[Spring Security](https://github.com/honghyunin/TIL/blob/main/Spring_Security/Spring_Security.md)]__
 
 ## 🛠️ Computer Science
 
-- __[[마샬링 & 직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)]__
+- __[[마샬링/직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)]__
 
 - __[[Property](https://github.com/honghyunin/TIL/blob/main/cs/Property/Property.md)]__
 
-- __[[Build](https://github.com/honghyunin/TIL/blob/main/cs/Build/README.md)]__
-      
-- __[[Build_Process](https://github.com/honghyunin/TIL/blob/main/cs/Build/Build_Process.md)]__
-
-- __[[Compile](https://github.com/honghyunin/TIL/blob/main/cs/Build/Compile.md)]__
-
-- __[[Interpreted](https://github.com/honghyunin/TIL/blob/main/cs/Build/Interpreted.md)]__
-
-- __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/cs/Build/Hybrid.md)]__
-
 - __[[Cache](https://github.com/honghyunin/TIL/blob/main/cs/Cache/cache.md)]__
+
+### 🧰 Build 
+
+-  __[[Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build.md)]__
+
+- __[[Build_Process](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build_Process.md)]__
+
+- __[[Compile](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Compile.md)]__
+
+- __[[Interpreted](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Interpreted.md)]__
+
+- __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)]__
 
 ## 🌎 Network
 
@@ -82,35 +91,42 @@
 
 - __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/Web_Struct.md)]__
 
-- __[[쿠키와 세션](https://github.com/honghyunin/TIL/blob/main/Web/Cookie&Session.md)]__
-
 - __[[HTTP](https://github.com/honghyunin/TIL/blob/main/Web/HTTP.md)]__
-
-- __[[Rendering_Engine](https://github.com/honghyunin/TIL/blob/main/Web/Rendering_Engine.md)]__
 
 - __[[Rest](https://github.com/honghyunin/TIL/blob/main/Web/REST.md)]__
 
-- __[[Route&Routing](https://github.com/honghyunin/TIL/blob/main/Web/Route&Routing.md)]__
+- __[[Cookie/Sessin](https://github.com/honghyunin/TIL/blob/main/Web/Cookie&Session.md)]__
 
 - __[[URL](https://github.com/honghyunin/TIL/blob/main/Web/URL.md)]__
 
-- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
+- __[[Route/Routing](https://github.com/honghyunin/TIL/blob/main/Web/Route&Routing.md)]__
 
-- __[[Digital_Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
-
-- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
-
-- __[[동기 비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
+- __[[Rendering Engine](https://github.com/honghyunin/TIL/blob/main/Web/Rendering_Engine.md)]__
 
 - __[[middleware](https://github.com/honghyunin/TIL/blob/main/Web/Middleware.md)]__
 
-## 🗳️AWS
+
+### Auth
+
+- __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
+
+- __[[JWT](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/JWT.md)]__
+
+- __[[Digital Signature](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Digital_Signature.md)]__
+
+- __[[Payload](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Payload.md)]__
+
+## 🗳️devOps
 
 - __[[CodeDeploy](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/CodeDeploy.md)]__
 
 - __[[Load Balancing](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/LoadBalancing.md)]__
 
 - __[[Scaleup Scaleout](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/ScaleUp&ScaleOut.md)]__
+
+- __[[CI](https://github.com/honghyunin/TIL/blob/main/devOps/CI.md)]__
+
+- __[[CD](https://github.com/honghyunin/TIL/blob/main/devOps/CD.md)]__
 
 ## LI
 
@@ -124,15 +140,30 @@
 
 ## Language
 
+### Java
+
+- __[[Code Conventions](https://github.com/honghyunin/TIL/blob/main/Java/Code_Conventions.md)]__
+
+- __[[Exception](https://github.com/honghyunin/TIL/blob/main/Java/Exception.md)]__
+
+- __[[Garbage Collection](https://github.com/honghyunin/TIL/blob/main/Java/Garbage_Collection.md)]__
+
+- __[[추상화/인터페이스](https://github.com/honghyunin/TIL/blob/main/Java/Interface&Abstract.md)]__
+
+- __[[Java](https://github.com/honghyunin/TIL/blob/main/Java/Java.md)]__
+
+- __[[JDK](https://github.com/honghyunin/TIL/blob/main/Java/JDK.md)]__
+
+- __[[JVM](https://github.com/honghyunin/TIL/blob/main/Java/JVM.md)]__
+
+- __[[Reflection](https://github.com/honghyunin/TIL/blob/main/Java/Reflection.md)]__
+
+- __[[Serialize](https://github.com/honghyunin/TIL/blob/main/Java/Serialize.md)]__
+
 ### JavaScript
 
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/Javascript.md)]__
 
-### Java
-
-- __[[Java](https://github.com/honghyunin/TIL/blob/main/Java/Java.md)]__
-
-- __[[추상화 vs 인터페이스](https://github.com/honghyunin/TIL/blob/main/Java/Interface&Abstract.md)]__
 
 ### Kotlin
 
@@ -148,3 +179,4 @@
 
 - __[[Flyway](https://github.com/honghyunin/TIL/blob/main/Database/Flyway.md)]__
 
+- __[[Redis](https://github.com/honghyunin/TIL/blob/main/Database/Redis.md)]__
