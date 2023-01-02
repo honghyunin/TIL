@@ -12,24 +12,7 @@
 
 # 분류
 
-## Programming
-
-- __[[동기/비동기](https://github.com/honghyunin/TIL/blob/main/Web/Concurrency&Parallelism.md)]__
-
-
-### OOP (객체 지향 프로그래밍)
-
-- __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/oop.md)]__
-
-- __[[SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)]__
-
-- __[[LSP](https://github.com/honghyunin/TIL/blob/main/OOP/LSP.md)]__
-
-- __[[OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)]__
-
-- __[[Abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)]__
-
-## Spring
+### Spring
 
 - __[[Spring](https://github.com/honghyunin/TIL/blob/main/Spring/Spring.md)]__
 
@@ -57,7 +40,7 @@
 
 - __[[Spring Security](https://github.com/honghyunin/TIL/blob/main/Spring_Security/Spring_Security.md)]__
 
-## 🛠️ Computer Science
+### 🛠️ Computer Science
 
 - __[[마샬링/직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)]__
 
@@ -77,7 +60,7 @@
 
 - __[[Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)]__
 
-## 🌎 Network
+### 🌎 Network
 
 - __[[Network](https://github.com/honghyunin/TIL/blob/main/Network/network.md)]__
 
@@ -87,7 +70,7 @@
 
 - __[[TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP_IP.md)]__
 
-## 🌐 WEB
+### 🌐 WEB
 
 - __[[웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/Web_Struct.md)]__
 
@@ -105,7 +88,6 @@
 
 - __[[middleware](https://github.com/honghyunin/TIL/blob/main/Web/Middleware.md)]__
 
-
 ### Auth
 
 - __[[인증과 인가](https://github.com/honghyunin/TIL/blob/main/Web/Auth/Authentication%26Authorization.md)]__
@@ -116,7 +98,7 @@
 
 - __[[Payload](https://github.com/honghyunin/TIL/blob/main/Web/Auth/JWT/Payload.md)]__
 
-## 🗳️devOps
+### 🗳️devOps
 
 - __[[CodeDeploy](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/CodeDeploy.md)]__
 
@@ -128,7 +110,7 @@
 
 - __[[CD](https://github.com/honghyunin/TIL/blob/main/devOps/CD.md)]__
 
-## LI
+### LI
 
 - __[[Architecture](https://github.com/honghyunin/TIL/blob/main/Li/Programming/Architecture.md)]__
 
@@ -141,6 +123,16 @@
 ## Language
 
 ### Java
+
+- __[[OOP](https://github.com/honghyunin/TIL/blob/main/OOP/oop.md)]__
+
+- __[[SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)]__
+
+- __[[LSP](https://github.com/honghyunin/TIL/blob/main/OOP/LSP.md)]__
+
+- __[[OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)]__
+
+- __[[Abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)]__
 
 - __[[Code Conventions](https://github.com/honghyunin/TIL/blob/main/Java/Code_Conventions.md)]__
 
@@ -165,11 +157,16 @@
 - __[[JavaScript](https://github.com/honghyunin/TIL/blob/main/JavaScript/Javascript.md)]__
 
 
+### Programming
+
+- __[[동기/비동기 - 블로킹/논블로킹](https://github.com/honghyunin/TIL/blob/main/Web/Sync&Async-Block&nonBlock.md.md)]__
+
+
 ### Kotlin
 
 - __[[Backing Field](https://github.com/honghyunin/TIL/blob/main/kotlin/syntax/Backing_Field.md)]__
 
-## Database
+### Database
 
 - __[[Query](https://github.com/honghyunin/TIL/blob/main/Database/Query.md)]__
 
