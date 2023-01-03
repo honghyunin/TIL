@@ -176,3 +176,28 @@ Spring은 Java 기반 오픈소스 애플리케이션 프레임워크입니다.
 ### WAS와 WS의 차이는 무엇인가요?
 
 - WS가 정적인 콘텐츠를 더 잘 처리하고, WAS가 동적인 컨텐츠를 더 잘 처리하는 차이점이 있습니다.
+
+### Generic
+
+- 제네릭은 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터 타입을 가질 수 있는 것을 의미한다.
+
+
+### HTTP란?
+
+네트워크로 데이터를 통신할 때 사용하는 기본적인 프로토콜입니다.
+
+HTTP 메시지엔 요청과 응답 두 가지의 주요 유형이 있는데, HTTP 요청 및 응답은 인터넷을 통해 일반 텍스트로 전달됩니다.
+
+문제는 연결을 모니터링하는 모든 사람이 텍스트를 읽을 수 있다는 점입니다.
+
+이를 악용할 수 있어 HTTP는 보안 문제가 존재합니다.
+
+### DNS 룩업 과정 (recursive query)
+
+로컬에서 브라우저에 주소를 확인하고, 해당 주소에 맞는 IP가 존재하는 지 확인합니다. 없다면, 루트 DNs 서버에 질의합니다
+
+xx -> sub domain name
+yyy -> second-level domain name
+zzz -> top-level domain name
+
+루트 DNS 서버에 주소가 없다면 top-level domain DNS 서버에 질의합니다. 해당 DNS 서버는 다시 second-level domain DNS 서버에 질의하고, 해당 DNS 서버는 다시 sub-domian name을 가진 IP를 찾아 리턴합니다.
