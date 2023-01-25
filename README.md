@@ -12,13 +12,13 @@
 # 분류
 
 
-### 🛠️ Computer Science
+### Computer Science
 
 - [마샬링/직렬화](https://github.com/honghyunin/TIL/blob/main/cs/Marshalling/Marshalling.md)
 - [Property](https://github.com/honghyunin/TIL/blob/main/cs/Property/Property.md)
 - [Cache](https://github.com/honghyunin/TIL/blob/main/cs/Cache/cache.md)
 
-### 🧰 Build 
+### Build 
 
 - [Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build.md)
 - [Build_Process](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build_Process.md)
@@ -26,14 +26,14 @@
 - [Interpreted](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Interpreted.md)
 - [Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)
 
-### 🌎 Network
+### Network
 
 - [Network](https://github.com/honghyunin/TIL/blob/main/Network/network.md)
 - [인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/Internet/Internet_Struct.md)
 - [WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket.md)
 - [TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP_IP.md)
 
-### 🌐 WEB
+### WEB
 
 - [웹 동작방식](https://github.com/honghyunin/TIL/blob/main/Web/Web_Struct.md)
 - [HTTP](https://github.com/honghyunin/TIL/blob/main/Web/HTTP.md)
@@ -53,7 +53,7 @@
 
 ### Java
 
-- [OOP](https://github.com/honghyunin/TIL/blob/main/OOP/oop.md)
+- [OOP](https://github.com/honghyunin/TIL/blob/main/OOP/OOP.md)
 - [SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)
 - [LSP](https://github.com/honghyunin/TIL/blob/main/OOP/LSP.md)
 - [OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)
@@ -86,15 +86,16 @@
 - [JPA](https://github.com/honghyunin/TIL/blob/main/Spring/JPA.md)
 - [Persistence Context](https://github.com/honghyunin/TIL/blob/main/Spring/Persistence_Context.md)
 - [Filter/Interceptor](https://github.com/honghyunin/TIL/blob/main/Spring/Filter&Interceptor.md)
-- [Spring Security](https://github.com/honghyunin/TIL/blob/main/Spring_Security/Spring_Security.md)
+- [Spring Security](https://github.com/honghyunin/TIL/blob/main/Spring/Spring_Security.md)
 
 
-### 🗳️devOps
+### DevOps
 
-- [CodeDeploy](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/CodeDeploy.md)
-- [Load Balancing](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/LoadBalancing.md)
-- [Scaleup Scaleout](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/ScaleUp&ScaleOut.md)
-- [Region](https://github.com/honghyunin/TIL/blob/main/Backend/AWS/Region.md)
+- [CodeDeploy](https://github.com/honghyunin/TIL/blob/main/devOps/AWS/CodeDeploy.md)
+- [Load Balancing](https://github.com/honghyunin/TIL/blob/main/devOps/AWS/LoadBalancing.md)
+- [Scaleup Scaleout](https://github.com/honghyunin/TIL/blob/main/devOps/AWS/ScaleUp&ScaleOut.md)
+- [Region](https://github.com/honghyunin/TIL/blob/main/devOps/AWS/Region.md)
+- [AWS Words](https://github.com/honghyunin/TIL/blob/main/devOps/AWS/AWS_Words.md)
 - [CI](https://github.com/honghyunin/TIL/blob/main/devOps/CI.md)
 - [CD](https://github.com/honghyunin/TIL/blob/main/devOps/CD.md)
 
@@ -111,7 +112,7 @@
 
 ### Programming
 
-- [동기/비동기 - 블로킹/논블로킹](https://github.com/honghyunin/TIL/blob/main/Web/Sync&Async-Block&nonBlock.md.md)
+- [동기/비동기 - 블로킹/논블로킹](https://github.com/honghyunin/TIL/blob/main/Web/Sync%26Async-Block%26nonBlock.md)
 
 ### Database
 
