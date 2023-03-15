@@ -20,11 +20,11 @@
 
 ### Build 
 
-- [Build](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build.md)
-- [Build_Process](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Build_Process.md)
-- [Compile](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Compile.md)
-- [Interpreted](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Interpreted.md)
-- [Hybrid](https://github.com/honghyunin/TIL/blob/main/Programming/Build/Hybrid.md)
+- [Build](https://github.com/honghyunin/TIL/blob/main/cs/Build/Build.md)
+- [Build_Process](https://github.com/honghyunin/TIL/blob/main/cs/Build/Build_Process.md)
+- [Compile](https://github.com/honghyunin/TIL/blob/main/cs/Build/Compile.md)
+- [Interpreted](https://github.com/honghyunin/TIL/blob/main/cs/Build/Interpreted.md)
+- [Hybrid](https://github.com/honghyunin/TIL/blob/main/cs/Build/Hybrid.md)
 
 ### Network
 
@@ -53,11 +53,11 @@
 
 ### Java
 
-- [OOP](https://github.com/honghyunin/TIL/blob/main/OOP/OOP.md)
-- [SOLID](https://github.com/honghyunin/TIL/blob/main/OOP/SOLID.md)
-- [LSP](https://github.com/honghyunin/TIL/blob/main/OOP/LSP.md)
-- [OCP](https://github.com/honghyunin/TIL/blob/main/OOP/OCP.md)
-- [Abstraction](https://github.com/honghyunin/TIL/blob/main/OOP/Abstraction.md)
+- [OOP](https://github.com/honghyunin/TIL/blob/main/Java/OOP/OOP.md)
+- [SOLID](https://github.com/honghyunin/TIL/blob/main/Java/OOP/SOLID.md)
+- [LSP](https://github.com/honghyunin/TIL/blob/main/Java/OOP/LSP.md)
+- [OCP](https://github.com/honghyunin/TIL/blob/main/Java/OOP/OCP.md)
+- [Abstraction](https://github.com/honghyunin/TIL/blob/main/Java/OOP/Abstraction.md)
 - [Code Conventions](https://github.com/honghyunin/TIL/blob/main/Java/Code_Conventions.md)
 - [Exception](https://github.com/honghyunin/TIL/blob/main/Java/Exception.md)
 - [Garbage Collection](https://github.com/honghyunin/TIL/blob/main/Java/Garbage_Collection.md)
