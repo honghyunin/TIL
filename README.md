@@ -78,7 +78,7 @@
 - [Servlet](https://github.com/honghyunin/TIL/blob/main/Spring/Servlet.md)
 - [DI](https://github.com/honghyunin/TIL/blob/main/Spring/DI.md)
 - [IOC](https://github.com/honghyunin/TIL/blob/main/Spring/IOC.md)
-- [AOC](https://github.com/honghyunin/TIL/blob/main/Spring/AOP.md)
+- [AOP](https://github.com/honghyunin/TIL/blob/main/Spring/AOP.md)
 - [Bean](https://github.com/honghyunin/TIL/blob/main/Spring/Bean.md)
 - [DAO, Entity, DTO, VO](https://github.com/honghyunin/TIL/blob/main/Spring/DAO_Entity_DTO_VO.md)
 - [MVC](https://github.com/honghyunin/TIL/blob/main/Spring/MVC.md)
