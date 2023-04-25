@@ -8,7 +8,7 @@ Spring Security는 **'인증'과 '권한'에 대한 부분을 Filter 흐름에 �
 
 #### 인증 관련 Architecture
 
-![Architecture](/images/architecture.png)
+![architecture.png](..%2Fimages%2Farchitecture.png)
 
 ### [인증과 인가]
 

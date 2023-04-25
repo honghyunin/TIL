@@ -9,28 +9,27 @@
 
 <br>
 
-![1:1](/images/internet-schema-1.png)
-
+![internet-schema-1.png](..%2F..%2Fimages%2Finternet-schema-1.png)
 <br>
 
 - 이러한 네트워크는 컴퓨터가 10개만 있어도 더욱 복잡해집니다. 서로가 서로를 연결해야하기 때문에 컴퓨터 당 9개의 플러그가 달린 45개의 케이블이 필요하죠
 
-![N:N](/images/internet-schema-2.png)
+![N:N](..%2F..%2Fimages%2Finternet-schema-2.png)
 
 
 - 그래서 우리에겐 __라우터__ 라고 하는 ``소형 컴퓨터``가 연결됩니다. 이 라우터에는 전달한 데이터가 잘못 전달되지 않도록 관리해주는 역할을 해줍니다.
 
-![Rotuer](/images/internet-schema-3.png)
+![Rotuer](..%2F..%2Fimages%2Finternet-schema-3.png)
 
 # 네트워크 속의 네트워크
 
-![Router&Router](/images/internet-schema-5.png)
+![Router&Router](..%2F..%2Fimages%2Finternet-schema-4.png)
 
 
 - 라우터와 라우터끼리 연결하여 더 많은 커넥팅을 이루어낼 수 있습니다. 하지만 일일이 모든 라우터에 다른 라우터를 연결하여 인터넷을 연결할 필요는 없습니다.
 
 
-![Telephone facility](/images/internet-schema-6.png)
+![Telephone facility](..%2F..%2Fimages%2Finternet-schema-5.png)
 
 - 그래서 우리는 네트워크는 __전화 시설에 연결__ 됩니다. 이렇게 하면 네트워크 인터넷 서비스 *제공업체(ISP)에 연결하여 우리 네트워크에서 다른 네트워크로 메시지를 보낼 수 있습니다.
 

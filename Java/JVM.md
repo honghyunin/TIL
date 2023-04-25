@@ -10,7 +10,7 @@
 
 ## 자바 실행 과정
 
-![Java Execution Process](/images/JVM.png)
+![Java Execution Process](..%2Fimages%2FJVM.png)
 
 ### Java Compoiler 
 Java Source 파일을 바이트 코드로 바꿔 .class 파일 생성 

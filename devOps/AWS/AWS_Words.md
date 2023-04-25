@@ -26,7 +26,7 @@ On-premise의 반대버전으로, 클라우드 환경을 말한다.
 
 EC2 인스턴스를 실행하기 위한 정보를 담고 있는 이미지(템플릿)
 
-![AMI](/images/AMI.png)
+![AMI.png](..%2F..%2Fimages%2FAMI.png)
 
 **ARN (Amazon Resource Name)**
 

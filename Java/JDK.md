@@ -6,7 +6,7 @@
 - Java Development Kit의 약자, 개발자를 위한 자바 개발 도구
 - JDK 안에는 JRE, JVM도 포함되어 있습다.
 
-![d](/images/JDK_JRE_JVM.png)
+![JDK_JRE_JVM.png](..%2Fimages%2FJDK_JRE_JVM.png)
 
 # JVM
 

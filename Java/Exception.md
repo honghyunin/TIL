@@ -12,4 +12,4 @@
 - CheckException과 반대로 RuntimeException을 상속받는 모든 클래스가 Unchecked Exception입니다.
 - 명시적인 예외처리를 강제 하지 않기 때문에 UncheckedException입니다. 따라서 try ~ catch 나, 메서드 throw 단에서 처리합니다.
 
-![exception](/images/exception.png)
+![exception.png](..%2Fimages%2Fexception.png)

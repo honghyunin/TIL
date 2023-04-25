@@ -1,6 +1,6 @@
 # Spring MVC 구조의 처리 과정
 
-![mvc](/images/Spring_MVC.png)
+![Spring_MVC.png](..%2Fimages%2FSpring_MVC.png)
 
 |구성 요소|설명|
 |-|-|

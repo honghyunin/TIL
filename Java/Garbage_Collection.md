@@ -64,8 +64,7 @@ Reachability는 객체가 유효한 참조를 하고 있을 경우 'reachable', 
 
 
 *출처 : Naver D2*
-![Reachability](/images/reachablilty.png)
-
+![reachablilty.png](..%2Fimages%2Freachablilty.png)
 위에서 보듯이, root set으로부터 시작한 참조 사슬에 속한 객체들은 reachable 객체이고, 이와 무관한 객체들이 unreachable 객체로 GC 대상입니다. 오른쪽 아래 객체처럼 reacahble 객체를 참조하고 있을 지라도 본인이 참조받지 않는다면 unreachable 객체입니다.
 
 물론 위의 개념은 가장 GC가 처리할 객체를 분류하는 가장 기본적인 내용이며 더 자세한 내용은 strongly reachable, softly reachable, weakly reachable, phantomly reachable를 검색해보시면 알 수 있으실 것입니다.

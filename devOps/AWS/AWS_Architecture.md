@@ -21,8 +21,7 @@
 사실 어떻게 그려야할지는 서비스의 규모로 결정된다. 얼마만큼 사용자를 수용할 수 있을 지에 따라 비용도 사용해야할 스펙들도 천차만별이기 때문에 서비스의 규모와 환경을 고려하여 아키텍처를 그려야 한다.
 
 ## 사용자수 < 1,000
-![1000.png](/images/1000.png)
-
+![1000.png](..%2F..%2Fimages%2F1000.png)
 - **서버 선정 → EC2**
     - 업무에 적합하고, 필요 성능(IOPS)에 맞는 스토리지 선택
     - 온프레미스와 달리 인스턴스 타입 변경이 쉽기 때문에 용량 산정에 대한 고민이 불필요함
@@ -59,8 +58,7 @@
     - AWS CodePipeline : 위의 모든 과정을 통합
 
 ## 사용자수 > 1,000
-
-![1000over.png](/images/1000over.png)
+![1000over.png](..%2F..%2Fimages%2F1000over.png)
 
 - **시스템 확장 → EC2 오토 스케일링**
     - 갑자기 접속 수가 많아지는 경우를 고려해 규칙을 정해두면 EC2 수량을 자동으로 조절
@@ -83,16 +81,14 @@
 
 ## 사용자수 > 10,000
 
-![10000over.png](/images/10000over.png)
-
+![1000under.png](..%2F..%2Fimages%2F1000under.png)
 - 사용자가 리소스 요청을 보낼 시, 사용자와 가까운 PoP에 먼저 전달
 - 캐시에 저장해두어 동일한 리소스 요청이 올 경우, 캐시에 둔 데이터로 직접 응답
 - 오리진 측 부하 감소 및 엔드 유저 latency 감소
 
 - **부하 분산 → RDS**
 
-![RDS.png](/images/RDS.png)
-
+![RDS.png](..%2F..%2Fimages%2FRDS.png)
 **※ Amazon Aurora 읽기 복제본 오토스케일링**
 
 - 읽기 복제본을 사용하여 평균 CPU 사용률, 평균 커넥션 수를 기준으로 오토 스케일링 되도록 구성
@@ -100,7 +96,7 @@
 
 - **Amazon ElastiCache**
 
-![AEC.png](/images/AEC.png)
+![AEC.png](..%2F..%2Fimages%2FAEC.png)
 
 - 캐시 클러스터를 쉽게 구성할 수 있도록 해주는 서비스
 - 1밀리초 미만의 응답 속도와 다양한 Usecase에서 활용 가능한 이점이 있음
@@ -108,7 +104,7 @@
 - EC2 오토스케일링을 적용할 경우, HTTP 세션 데이터를 개별 EC2 메모리에 저장하는 것보다는 캐시 서버를 따로 구성하는 것이 나음
 
 ## 사용자수 > 100,000
-
+![10000over.png](..%2F..%2Fimages%2F10000over.png)
 - **Loosely Coupled → Amazon SQS, Amazon SNS**
     - SQS는 producer가 메시지를 큐에 넣으면 consumer가 pull방식으로 꺼내오는 서비스
     - SNS는 producer가 토픽에 메시지를 게시하면 해당 토픽을 구독하는 여러 대상으로 SNS가 푸시 방식으로 전달
@@ -117,8 +113,7 @@
     - 서버를 미리 프로비저닝하거나 관리하지 않더라도 요청에 따라 리소스가 자동적으로 스케일링
 
 - **분산 아키텍처**
-
-![dispersion.png](/images/dispersion.png)
+![dispersion.png](..%2F..%2Fimages%2Fdispersion.png)
 
 - 용도에 맞는 DB 서비스 사용
     - 특정 데이터를 Data warehouse에 넣어 분석해야 할 때, 서버 A에서 put 하면 서버 B에서 꺼내 Redshift로 적재

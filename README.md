@@ -32,6 +32,7 @@
 - [인터넷 작동원리](https://github.com/honghyunin/TIL/blob/main/Network/Internet/Internet_Struct.md)
 - [WebSocket](https://github.com/honghyunin/TIL/blob/main/Network/Internet/WebSocket.md)
 - [TCP/IP](https://github.com/honghyunin/TIL/blob/main/Network/Internet/TCP_IP.md)
+- [OSI 7계층](https://github.com/honghyunin/TIL/blob/main/Network/OSI.md)
 
 ### WEB
 
